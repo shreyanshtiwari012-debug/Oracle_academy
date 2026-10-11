@@ -86,14 +86,26 @@ async function clearChoices(page) {
 
 /** Submit the current answer and wait for the next question (or completion). */
 async function submitAnswer(page) {
-  await page.click(SUBMIT_SEL);
+  try {
+    await page.click(SUBMIT_SEL, { timeout: 10000, noWaitAfter: true });
+  } catch (e) {
+    await page.evaluate((sel) => document.querySelector(sel)?.click(), SUBMIT_SEL);
+  }
   await page.waitForTimeout(3000);
 }
 
 /** Complete the assessment attempt (clicks the confirmation button). */
 async function completeAssessment(page) {
-  await page.click(COMPLETE_SEL);
-  await page.waitForTimeout(2500);
+  if (/p=63000:192:/.test(page.url())) return;
+  const btn = page.locator(COMPLETE_SEL);
+  if (await btn.count()) {
+    try {
+      await btn.click({ timeout: 10000, noWaitAfter: true });
+    } catch (e) {
+      await page.evaluate((sel) => document.querySelector(sel)?.click(), COMPLETE_SEL);
+    }
+    await page.waitForTimeout(3500);
+  }
 }
 
 /** True when the current page is the assessment (page 190). */

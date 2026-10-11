@@ -188,7 +188,10 @@ async function cmdLoginDefaultBrowser(opts, browserDesc) {
               '\nSign in to Oracle Academy in the browser, then press y to continue (n to cancel): '
             )
         : undefined,
-      onUrl: (url) => process.stdout.write(`Opening in your default browser: ${url}\n`),
+      onUrl: (url) =>
+        process.stdout.write(
+          `Opening in ${browserDesc.name}: ${url}\n`
+        ),
       onImport: (n) => process.stdout.write(`  imported ${n} cookie(s), verifying...\n`),
       onStatus: (st) => {
         if (st.status === 'in') return;

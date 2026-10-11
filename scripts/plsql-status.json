@@ -1,0 +1,1590 @@
+[
+  {
+    "sectionName": "Section 0 - Course Resources",
+    "p15Id": "251",
+    "items": [
+      {
+        "name": "Database Programming with PL/SQL Course Map",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "253",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:253,62&cs=3STgrrELZmUXFsuGXhdxnkGWKamj5zwTcfqkMQr_it1yw5pFirGTmjHk6p_4hA9t36NJPeOHZ8VemxybCxrWPow"
+      },
+      {
+        "name": "Database Programming with PL/SQL Course Objectives",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "254",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:254,62&cs=3A61__3bwRnd1W-RhwtPeSoCZWcsTuo3n_N8954t8pGuT8ly05AvX7VbsEA1kjut3UmwHAorLMgy6nkIItG6MKA"
+      },
+      {
+        "name": "PL/SQL Semester 1 Midterm Exam Review",
+        "type": "exam",
+        "status": "Completed",
+        "p15Id": "257",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:257,62&cs=3uHyU4AhhYDtoupQFJOeqyq3qm52Qb8qZiL_NtIM2XTNtaiujy6Df6OLphy009WZImIBLGRZ5Zkl1UL8tUFxYXA"
+      },
+      {
+        "name": "PL/SQL Semester 1 Final Exam Review",
+        "type": "exam",
+        "status": "Completed",
+        "p15Id": "259",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:259,62&cs=3hDkBxJGlsHERR3-vypMHKtfmCFFUcpUeankXy4O79rvoG3leq6ODlTobggCtt3Be_P8p8fpyyu6UcfATJduE_w"
+      },
+      {
+        "name": "PL/SQL Semester 1 Project - Student Administration",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "261",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:261,62&cs=33zAgvVWOl3cAKFmRNC8oPFnuVhvN6hD9oxbC5EdPpBjoSWinG8bdJn-fVJnycje3z5_X6Z40cp1BEOhJN3xSMQ"
+      },
+      {
+        "name": "PL/SQL Semester 1 Project - Student Administration - Enhancement",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "263",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:263,62&cs=30s2nsXS8krZymA58K8aC9PHS0YvEtp9zjLq_WsOkxKHvrHlE3D9b9fBFbPXFCvKEGUk1S8JEvNEBee33KCBNYQ"
+      },
+      {
+        "name": "PL/SQL Semester 2 Midterm Exam Review",
+        "type": "exam",
+        "status": "Completed",
+        "p15Id": "266",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:266,62&cs=3T1RG5_hzSvgqmvYsEilvLvAmKYN80mU0z-GxKKfp--nyDJmuHImcmKumZRHA9kXuzRfsC2fmowbZQYle9G2ffw"
+      },
+      {
+        "name": "PL/SQL Semester 2 Final Exam Review",
+        "type": "exam",
+        "status": "Completed",
+        "p15Id": "267",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:267,62&cs=3pHWaZzEfCvHm5RiOeidaP_5djoPHdJoSrosoSJHZid8tdM7ieCG5eDJ2M5f2Vf54-8CcJFQr8kdUSfZPFtqAvA"
+      },
+      {
+        "name": "PL/SQL Semester 2 Project - Traveler Assistance",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "271",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:271,62&cs=31p8OduQqKA-nmxGGnrp4pcVJzzSIGbxAz0dh2IBZnPlORT1xILdMsKXCnPAvi4k-UqA9ZzU4xTBcTBWjJ8OY2w"
+      },
+      {
+        "name": "Oracle APEX Learner Guide",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "275",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:275,62&cs=3KuxvxfzwfGecxBdTyUhiks1XIEeX7WOTwxUEWdFnV0RjGhv13YcXnw9dPNi_-HS-HuF8GptD5_Q0adILXtsSMQ"
+      },
+      {
+        "name": "PL/SQL Schema Script (ZIP)",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "280",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:280,62&cs=3Gn7Ao4Zy-Uzy4gyBx2Xs2s-lF93_Z8IW-i-LFVxh0PqVQaQle6EurWgkRbdWNiIp3_WUmClZDgzEg-fLnFBWfQ"
+      },
+      {
+        "name": "PL/SQL Schema ERD and Table Designs",
+        "type": "item",
+        "status": "Active",
+        "p15Id": "283",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:283,62&cs=3jJ93ONKjq0S5JROmcWASDu4XbZeYnXM1gDgQJqeWFrZfdMNlf0MUEKcTGs9R4Z29D_heHxBGEqhak7JuY3w9XQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 1 - Fundamentals",
+    "p15Id": "288",
+    "items": [
+      {
+        "name": "PL/SQL 1-1: Introduction to PL/SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "295",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:295,62&cs=3N_Co4V9FJFgrjrUBbarKSke13CWHnubX6P1N33L_BzMbUQex4-q086Y2ELr3TmmFx1SUBKFfozyLL_tMB6AwoA"
+      },
+      {
+        "name": "PL/SQL 1-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "297",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:297,62&cs=3uNN0AZQqIuQAmxIrpiRH6N84GkPUmXTt8DabSZa-_bi-uox_iOZ2WAqKZ9KknSxPIHR-IG_L8GZyNSdxmM1SIw"
+      },
+      {
+        "name": "PL/SQL 1-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "300",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:300,62&cs=3OqNzhJMLX2sFSoVAm6H0rXK4SkX5hbciVpLkEOg-3GCXG05Yr2x7mbfpLmSx7hv70AXwPmxqwVYQ8JjFV64gWw"
+      },
+      {
+        "name": "PL/SQL 1-2: Benefits of PL/SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "304",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:304,62&cs=3isl4yuR3pN4UV5J-YTt5DJKzvrg9j0lcuJlRTNHfKi-3Hn_q2o4IFgDy0IxbXFvSIrigwIbb-7qHdCxHj1oqQg"
+      },
+      {
+        "name": "PL/SQL 1-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "307",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:307,62&cs=3IgkDWBMMZuC5ZQnB-AtOX03fCYAlZ3ihHGmZ3HCAJJPUTMjrZUm_ZNZ2Z-2KfN9La5hf5hOFeM6hmTznP3eyDw"
+      },
+      {
+        "name": "PL/SQL 1-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "310",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:310,62&cs=30G4gm4_v6bvFgTDmZl-DeD_Epe6mkFrC4D8x-LoboPjW0-czryNJ0hL6t4IyRyaoNu4X_DQ6WPLP1SW7RDEYnA"
+      },
+      {
+        "name": "PL/SQL 1-3: Creating PL/SQL Blocks (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "313",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:313,62&cs=3aPTXD0dWqNNUo-EICLN4KazUvrnU4bOVc7Pbd3Eie_7ZlGXpLZp9Fzl-mJaQQVcbNtelUa7_5UXMbE1bPt_JAw"
+      },
+      {
+        "name": "PL/SQL 1-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "316",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:316,62&cs=3fzMjuF1pcVVRfooC9bwH0GID0a0VVLZVwlEb2tYUXHUv6vGFNmerzOKCdqEJPCQPt810nF1CbTzGtdJcF8BqQA"
+      },
+      {
+        "name": "PL/SQL 1-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "318",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:318,62&cs=3t07XvWNm5mlCj4Dh8cYw3ZNK-BDKvMjA69F5c4pWDSYPOm6DYGSb-oTdolA61dQpqGu9fGcNyv_MVS_KKC4iEQ"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 1",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7807",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7807,62&cs=32f13DD_XVX5VPLIq5BOzL3nRlDSGUlx-ICgrGISmWTbhec5A0Y1XHIf3NzR1wSN_4tbOtLkO8DJS_wOstjtOeg"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 2 - Defining Variables and Datatypes",
+    "p15Id": "321",
+    "items": [
+      {
+        "name": "PL/SQL 2-1: Using Variables in PL/SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "324",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:324,62&cs=3zY7pZTlBi84zBfb45_NMAedcRAR1UpPALfBfJ5SgEeY6AbQIrE-9kozu_7Q7irAC9xXwBPgZeo6gswBROVpzqQ"
+      },
+      {
+        "name": "PL/SQL 2-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "330",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:330,62&cs=3uNaC97a4eaQsWKxTe9oR5HpUH0LMoO6113MzOl9y-YIX9mWz0cevhy76ndgNA987CGQ5zNh-hqHPZB0Ykgd9fw"
+      },
+      {
+        "name": "PL/SQL 2-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "333",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:333,62&cs=3Kt1wWKPvJJCEROBe7SQMWT7IWfbapY535skvpcKkCIMpOsdDbQLVCwEOmpIrJUT6I0sF6BDOSL-Uz4Ux23HbzA"
+      },
+      {
+        "name": "PL/SQL 2-2: Recognizing PL/SQL Lexical Units (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "335",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:335,62&cs=3xHKp2NURkZl_3dMHmNIDXknImrHIniaqlkpxmusH0WjF2aOXboo_pZ1_Grf4tuwQHRIOgyxeRhJ7ShdvRPFB_Q"
+      },
+      {
+        "name": "PL/SQL 2-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "337",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:337,62&cs=3lswEPqkCyxRTRonWTc7FQ7s2dgVoxwAcS2eUReNXm2QcvH0fQ9tw-Yx7xDI4UcGe7CVOMrsta7yRoUsIg9JJhg"
+      },
+      {
+        "name": "PL/SQL 2-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "340",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:340,62&cs=36KoWxNwslDJ9M0XwoVQLL6dsTCFZLWi8qg1d4GOcL9a-6ta1Iy1HtfqBfc2o2D2CxTZAA7GwmeQcPa243a_rxg"
+      },
+      {
+        "name": "PL/SQL 2-3: Recognizing Data Types (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "342",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:342,62&cs=3NE9dzvExOw94Y2c90ef7AFh1uq9CTcRr0J1qyBScQsEP_M6lF1fSOWdXZ-uMp4yLwKrL-bF0-hNOtIz_w5M4EA"
+      },
+      {
+        "name": "PL/SQL 2-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "345",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:345,62&cs=3_Pbozeqk69grC_Ve7kDVWsvqQ_JWRayJQymMBgk8MXiId9QNFnUY92b2WC6uD6oO-tFBMDVZLexPOjf1MiandA"
+      },
+      {
+        "name": "PL/SQL 2-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "349",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:349,62&cs=329S3OUsbVjWXlFZ_ESKNKlpMtfiNE_lleTqzotSx9CJm_0KFNI0T7iCJDuONkqNJoHu6iS44Ea8MtUIpMeLZ9Q"
+      },
+      {
+        "name": "PL/SQL 2-4: Using Scalar Data Types (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "351",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:351,62&cs=3e1oqUvbNqboSjyl76Mpf2e28eoVwPfcCsceuL_UiRHNQjKZMsteoUBM333veA6eQ1xM7GjyzKXDMlPY2B3weeA"
+      },
+      {
+        "name": "PL/SQL 2-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "352",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:352,62&cs=3SDdgMb_sH_UBevmWJuPHryJY26LME10clDbP-UhmechUlRHFwAA_Nk_0g6Mq7t3DF_0020NkqRcswVRvv1HnEg"
+      },
+      {
+        "name": "PL/SQL 2-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "355",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:355,62&cs=3w9TrSFsbLx5i6YbL54jJMuYdssx_A4v5JUj3MwrgvkORw_7EgjrPcKQHU-dOzK7O7-JcJ7skw1hrkQXh7a5VOw"
+      },
+      {
+        "name": "PL/SQL 2-5: Writing PL/SQL Executable Statements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "358",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:358,62&cs=3_K2RlPUYl-oK6CJ_Lmdup9oEhlrWm_529u--UJ_GgOK360LINj5JXxWYXl6AqrsDl2QbZrhTIpc3gSmQ4n3gfw"
+      },
+      {
+        "name": "PL/SQL 2-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "362",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:362,62&cs=3AgCjXnHAbQQbQ--aeti0Jy6IRazi5GBx0_0BDHniwLMAMyT2uURU_CenVe-aziHzxGSV5CCI0rvSliQHEavEhw"
+      },
+      {
+        "name": "PL/SQL 2-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "364",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:364,62&cs=3x2T-brxQ3MdhHWYnUWPt_o5dLhkuFL2z0KN2uKV1JHM7aWN5_7Qb8FDVYltFHTsg4DlbTYDsN6JmwrtzYNWWrg"
+      },
+      {
+        "name": "PL/SQL 2-6: Nested Blocks and Variable Scope (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "367",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:367,62&cs=3DlfgVO52pMsOHc_Jh2CZ47-ta5oxz-XOGFvFIFZ9IhqWf8op-pZ8dyX7hV6w2g-Iwu2BIgkMUZkynTu5wUgh6w"
+      },
+      {
+        "name": "PL/SQL 2-6: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "369",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:369,62&cs=3x4bxr3x3LREdWa81CSnDX_6A62o9rBODKQoZv-om7vU9dmf0geKYFq6qF0qS4hvcy1CaHBSRH6oYv5v-dZ3_vw"
+      },
+      {
+        "name": "PL/SQL 2-6: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "371",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:371,62&cs=3dvkRtJGVNtlyO62rVK_4KoHrX34u_dfUoCWRly43gJZ5KroWQSEm_6H7kFmPbyCoILkhRNO8elAq8XKqEeZCnw"
+      },
+      {
+        "name": "PL/SQL 2-7: Good Programming Practices (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "374",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:374,62&cs=3cfojYQcHNEps_Z3KO0Wgj93aRTEdciPDVUPyM-jDt_PsNklsSTAMj_UvBYXNZcdO4JZnEnZ13nTEMHuilLnANQ"
+      },
+      {
+        "name": "PL/SQL 2-7: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "378",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:378,62&cs=3Vsl2vFDhBn8Ov6Xvhfst9XQUAXEH-HwtsCDsG4ZfHf46X5exoKdF3pnS4LJTQcKU0E3pbT9NJxbTvbj9mFsQEA"
+      },
+      {
+        "name": "PL/SQL 2-7: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "380",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:380,62&cs=3063ToypwvxlVcTOOiNrPllz5m3-7BnPWtOSChQJ3hokF1j9dy9rqgY3acCCRK_Qtq1q5cPeq8LhlVKbj8cC5Zw"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 2",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7808",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7808,62&cs=38JezKWPXFj6PBr7tDvaoonXapKiR7-NLKWJV5KS38EWtLwXQJ5_DbZP6vV4nblFGwUuKQitDpQBoM3gTQI1E6g"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 3 - Using SQL in PL/SQL",
+    "p15Id": "383",
+    "items": [
+      {
+        "name": "PL/SQL 3-1: Review of SQL DML (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "386",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:386,62&cs=3ucnVyCmKuNfUvk8rWR0ZUUo2fULYjizzSusJzbGyJmp_U6jnjbZ__3gOZnCEfV1IAdLr58r8CxN0RXpaXEObYw"
+      },
+      {
+        "name": "PL/SQL 3-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "387",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:387,62&cs=3bQK9mNUxg2iHGrvxFznhn1uxaPn71t8Aqz-prWV_K2HkR1J3QAjRjv8yb1M-CoJ3hhlQtBWi3de5ESp7hOnXjQ"
+      },
+      {
+        "name": "PL/SQL 3-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "390",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:390,62&cs=3kH9aydBbP-2Jwba0pm6PwLLLVncPNoKshiL-Pt1zPlDSUMA6srJOgfm7PJFOaHiFt3UDSL0FigPoYGxRHMWYiQ"
+      },
+      {
+        "name": "PL/SQL 3-2: Retrieving Data in PL/SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "392",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:392,62&cs=37pkB-z_9YttGTaLoFGrCFY9VaMJFRslX3WWAPyGvfXudxLYUeIYvmWpjPwZN10ZuKKjAs_K063huDWezkBpTrQ"
+      },
+      {
+        "name": "PL/SQL 3-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "395",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:395,62&cs=3ftOWtqkBQWGo65SRJQ6RKC5dlQDkD9H2EaDrFxyhrD7PAVmhdxwfN3mf_romIoT0NlkZGJsToxbOM6NS8tP0Rw"
+      },
+      {
+        "name": "PL/SQL 3-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "398",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:398,62&cs=3rA49y9xmlCH8j67Ujxnnp6nIDfDKdccXgLhfNyIooO06NwBoy-P8tRDhUDYBxRh40pgD5VO6qwiY2r4nl1v-Ew"
+      },
+      {
+        "name": "PL/SQL 3-3: Manipulating Data in PL/SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "431",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:431,62&cs=3eKzWucoy19snQxlC8wYyo4YRk1c6Ya6lVnPe0ejLFKXCuRmaiL1dgo6Jwy5KKS6XvFQNfxrmzIoYxneQOAQtUw"
+      },
+      {
+        "name": "PL/SQL 3-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "433",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:433,62&cs=3HWD8xFqsH8Af8EAvxCRAp7-ob7XB1ChiLmSEY7D1u-UOVMOr-rnQqhW46Nyr7iVWNgfAwhNwIqbA-xR6FDXokQ"
+      },
+      {
+        "name": "PL/SQL 3-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "434",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:434,62&cs=3TbYcY-_of7GcICaPp4JhhM-X8xYVBCAZu_2rX4neGSwdAzdPBMOAI7CykwpG1SJdfWs0ZEonS24kfOTXbd_dSw"
+      },
+      {
+        "name": "PL/SQL 3-4: Using Transaction Control Statements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "437",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:437,62&cs=3HFhZFm8nGkm0Le4ZSbjFGXFSWz9X6Qmv6eK1f3eSTNreLDmwmTDpl5DXhKHOzX5nPX5xWs5DAsKvCAED4gpB2w"
+      },
+      {
+        "name": "PL/SQL 3-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "439",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:439,62&cs=3D_wvxqZErOW9CFoGV5C6MS43pF8Vjc5fVuscuUDcft59c844sBu-9Jptmxwun91gkToAgMWSjGW1272CzMF3Cw"
+      },
+      {
+        "name": "PL/SQL 3-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "441",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:441,62&cs=30QlceKuYy1mR84etPsYSYj_kvvsbJDP41XS_-psYMyak51tkzSQS_zkxxgZDPOXWV6LNXwxEzDW4SdLbO6w6pg"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 3",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7809",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7809,62&cs=39-brSKF1tuC07MOB_kCdJGUAz1Gkx2NWvHPgs1c39COHQ4TwGb9xtOSyp6HzvUL2yfQ3B-l-ysulUlTap19A2A"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 4 - Program Structures to Control Execution Flow",
+    "p15Id": "443",
+    "items": [
+      {
+        "name": "PL/SQL 4-1: Conditional Control: IF Statements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "444",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:444,62&cs=3A2PaoEJ0kl6GtkjNse1NiqNwGYtiOl2DrKpBZlKXeSZ0WsIsb5QNs5-VbyaWRuNR9E4s3W5s336iCoZTInOUFQ"
+      },
+      {
+        "name": "PL/SQL 4-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "446",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:446,62&cs=3UiGingxhoQEvPCsEcLaMQumUdHBrXxicNLhNOPTe_Ozz-1-GAAQUWhFUZMyYnGfc-3iQ4IourGSQLo2NBJmxAA"
+      },
+      {
+        "name": "PL/SQL 4-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "448",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:448,62&cs=3nrSTJm05BWQXargEbvzaX37d_XmejzLnyiZs7oTKQhS8HICVP7FoDbPoRj9tyKFZ2D7MAOVW3tKyn57PptsKkA"
+      },
+      {
+        "name": "PL/SQL 4-2: Conditional Control: Case Statements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "450",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:450,62&cs=312_p8uzngyIO7V6WkM8KcsyLJ4QPI5pjQgt-IzOC3uf1bFfB3_kGno8uE6o-fmb2vX6dVouH_xOA3mkcAvb8dQ"
+      },
+      {
+        "name": "PL/SQL 4-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "451",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:451,62&cs=3OXD4iTHuNZSYBohjRQkHGemxVBlDOIE0BiB2z6Lb0LZw5pw8WjHSCacsJvAxj4ypPsuqJYzxG0wHz88gIpcoBg"
+      },
+      {
+        "name": "PL/SQL 4-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "453",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:453,62&cs=3DIYU0eYRvW5d54UDjo2DaYjocSIxqY0VlierEzUBa5LbrcNwxOc9yEj-qcH4Cy7k0OT3L_ZeafLOv6COlta0yg"
+      },
+      {
+        "name": "PL/SQL 4-3: Iterative Control: Basic Loops (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "456",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:456,62&cs=3t3O_TjGk3Hze8U3y9wHBmImBsbpEz4SMvyYkst_Iizg03McXkTYLzrRUmzaksIo-_o_8vPbzWXKHfDnQURKLZw"
+      },
+      {
+        "name": "PL/SQL 4-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "457",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:457,62&cs=314wzC1hZTWFurIeAiawg7rfFvrmX_bwECF0rLceTaqSrKSS4I4IhkprY053rv2kOj9cZZf1W1kwXL-f-RoADPQ"
+      },
+      {
+        "name": "PL/SQL 4-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "459",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:459,62&cs=3Q01SRiS-PRnBr-x3dSgvqx1cgaBgg7LMrgpdu_vRdPiK_3SM4oCeofBaJp_EENr8P1Rg8c26rYpbwtAUslq8PA"
+      },
+      {
+        "name": "PL/SQL 4-4: Iterative Control: WHILE and FOR Loops (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "461",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:461,62&cs=3cE1OkUs_Aw9PXDjy9T8yT_mHNnsQYc6rmtMTek3-6LON5KHDssxe3PHbkbz3OrhdDGjs77U0BRRFW1pPcTQz1A"
+      },
+      {
+        "name": "PL/SQL 4-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "463",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:463,62&cs=3DXGEM_6NEYyn6WsefN9Mc-AJiuAFlhXiI7a_dy9y937gjQzCKqEOvrTAd_s66rDRSv7qCyppPvay1g0aS0UK4w"
+      },
+      {
+        "name": "PL/SQL 4-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "465",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:465,62&cs=3amcIGWwU0itcw22NVZ3h8JoV45JIzXVfrPcQxNNt07ECddrqwQJ51V1Rme4GHeV_wyVAmvY50EoeOJ5TEbxLOg"
+      },
+      {
+        "name": "PL/SQL 4-5: Iterative Control: Nested Loops (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "467",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:467,62&cs=3pGJPeBJlwEpDSY0N-cgJqOkVz5QtpQNQd6W495HdokTeRyyJ7-e_gRnFgo4PCa1oM90QuOf6mj-mLEyw3U_xAg"
+      },
+      {
+        "name": "PL/SQL 4-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "469",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:469,62&cs=3ooG1R2o0DkBnZjPIXiN0XhMh2lo5TYU-XojUtzEKSK2iHmLenDnnwIhBLfd4ghg0EwG-QKVrbb9ytWjCGg4wWg"
+      },
+      {
+        "name": "PL/SQL 4-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "471",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:471,62&cs=3dwX8PAAiAMOxEL3d0jBUwD-ME4PDGp6pBWL7ai-7rqQXdc8gHACI4ZV8AlSY-VRCNhsSGepidYYCgeAydPc2lg"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 4",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7810",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7810,62&cs=3ZOZV4vC_bPdmGhAAVdJ6T8WQhirqtGfrbXWIsspvmtTAX2CSJ0-hLyEJ0KTjwdR8rgM22PtPWYy3NqDammt3hA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 1 Midterm Exam (S1-S4)",
+    "p15Id": "7811",
+    "items": [
+      {
+        "name": "Midterm Exam - Semester 1 (S1-S4): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7812",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7812,62&cs=3JHxTXJp8fqnqhwVbogZHDInj6VYywwy7pCeo5qYldjO6zPs_KemKv5rBEeFDNFqdZOdPH0z3d1QcthGnTrqaNQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 5 - Using Cursors and Parameters",
+    "p15Id": "473",
+    "items": [
+      {
+        "name": "PL/SQL 5-1: Introduction to Explicit Cursors (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "474",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:474,62&cs=3W9d6aN1vGyKRGvnOv-kgOMki6dH-yQGxJikAyfuKqrKKLTqknz57CIB5atvKDRe1_oFq51BLclJ5hN-aooFPCQ"
+      },
+      {
+        "name": "PL/SQL 5-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "476",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:476,62&cs=3in3njA_QKMmmt_-ICTDppIDo-6pChDJSJnCD-C4XAPuZr_Bn_Q_ACIAXf4EmU3p5qiRGbzOyWpVP2B9cxIRYHA"
+      },
+      {
+        "name": "PL/SQL 5-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "478",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:478,62&cs=3DMsTFGKWYN4b9_TyUJm8-G3xuWK0h6_E1AXhu2m76bvDgyyL-5f4dVjBiz69M_1NsCh75hg0LMKQG4srzPK8Bw"
+      },
+      {
+        "name": "PL/SQL 5-2: Using Explicit Cursor Attributes (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "479",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:479,62&cs=3OW4-36ZzxAbqmoAmqu8XxeyTvem6toO5RzUd-bqfylAFpg3J6sbIktQP0RiwVaWr15utJgIZksvtXRWaTLuNdg"
+      },
+      {
+        "name": "PL/SQL 5-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "480",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:480,62&cs=3mAzGGGj-CzFm0ooXffAJS4n1w2363sPzCc4fskQgHjLQ4N2cSHJ1JPMutqv69NmEEyHjTAOgbTk_Rhsuvwuhdg"
+      },
+      {
+        "name": "PL/SQL 5-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "481",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:481,62&cs=3SitDJXfYtWhRBzaUcb4REatRTYtvuJc0flSCF8jXpjhLq49ouUhNQ8FkdBq8jL429u25w3Vpqs8IpDz7syfzTw"
+      },
+      {
+        "name": "PL/SQL 5-3: Cursor FOR Loops (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "482",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:482,62&cs=3az-4Stxwv4vF5AEXP8hZ1lQ15L4MWufw0IKwDns_j56rvvIcGz9WQ-RvdFGqGnh57O6owC03aiFHX3EGPeTzlw"
+      },
+      {
+        "name": "PL/SQL 5-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "483",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:483,62&cs=3RMs4JJ08-ltIRMoHb7zD1dM7H-ryDct4wBLGCEkcu6NvikL8HZUW0YfXAbT91UEkfaKjLo-p3qZomDHiQu5bRQ"
+      },
+      {
+        "name": "PL/SQL 5-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "484",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:484,62&cs=3GyR6L47FMrQCxKrqf0cOz-a-augZkA2HVAkzah-J4Nlw_rqW0-E97GFTtFrGPF33xTduM3tdjDidcMNMhUXtTA"
+      },
+      {
+        "name": "PL/SQL 5-4: Cursors with Parameters (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "485",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:485,62&cs=3953-EbRhI799kriD1ICeg9ccM8K9iICKIFkieSJmWM3HJYjeQ-ru7V1rf2xzVwrZXUGbwvJtru-aQ21h2EYgTQ"
+      },
+      {
+        "name": "PL/SQL 5-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "486",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:486,62&cs=3jcOT5gXkLDfAQjG1PPqicDGwqFfRh54rVKKEOq1FAs73c1NSaxgta-9wruMpMqwnSIBOecWbMhp1iM4iGMGC4A"
+      },
+      {
+        "name": "PL/SQL 5-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "487",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:487,62&cs=3zdHh9xlqV4vzCPG6qtJmAh4G1H_szULdV94cilrb9omuHLWQIce5_ObzedWz_SoZoqVM0oOUuLVug83nQXv6BQ"
+      },
+      {
+        "name": "PL/SQL 5-5: Using Cursors For Update (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "488",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:488,62&cs=3RVCKUva0P2whQyV8ejL3JpakAPPH_747Dh5OKyEH7N6OToeWzk5QaPfdGPnke20WLhRlGhc6uf94STkZXfPJOw"
+      },
+      {
+        "name": "PL/SQL 5-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "489",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:489,62&cs=3ZJsMBEwEASQt1MujC8-jkYOikiqN_uv2VfJPgj_fVzejF5Hu3XuXve5Krgxipe-E_To3olRjAebNl2Cr8_yUuA"
+      },
+      {
+        "name": "PL/SQL 5-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "491",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:491,62&cs=3rNoMV1hNcXZAFuFYWvXsY5xGFWqIxQ4gYT-pfXpJfuZRnV75r9RHJAHA6xb6_Y2FH-sSwv8s38qg6aQ0d-0WMA"
+      },
+      {
+        "name": "PL/SQL 5-6: Using Multiple Cursors (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "493",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:493,62&cs=3hrLCidXZR0vFVYHAJb5xEYXgcnLHB2UBlE9vzG79q6TrpcMCojLjVnHnmhHjuF88T1uWJbxmcVs9ivjcm5bNhA"
+      },
+      {
+        "name": "PL/SQL 5-6: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "494",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:494,62&cs=341BNZ5IAowwup3fWeubti_zSrEyproQa-I4E2m6fO4TcDu6lKvZYN2jF1l5hWQQ9m3GJZ2h1L40rck2iXYTLUQ"
+      },
+      {
+        "name": "PL/SQL 5-6: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "495",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:495,62&cs=3fLr16ZTaXoszphDh7rYbE4KuOC9upkQzdJomBWq7cU5VwT-iXcUnS_pCapNdxpgbkAcxANNKlpCpI2iLHh4Jtg"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 5",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7813",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7813,62&cs=3h-awniwqCbDqPGkHl9ymDAXvQFpPc5f4jK81XlvOhaJNR8XTZMq6_vDDnLzaUonI7CNwCtD_sDI1_JlM46pLqQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 6 - Using Composite Datatypes",
+    "p15Id": "496",
+    "items": [
+      {
+        "name": "PL/SQL 6-1: User-Defined Records (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "498",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:498,62&cs=3a7KcAbCTMu8x0lSv0PJrquX001nVL_sg8lgNUS9OItiRRJWsobUFi5YeS-jvoFsKCm1mucPEeeDu1U5LuFAYjQ"
+      },
+      {
+        "name": "PL/SQL 6-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "500",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:500,62&cs=3EY6euDJRc5iOTNkUwT4aWpXk1bgayXqReFFnGyqK6PI85TBwCeli2ZtU0yb2rEco6iNykzdxd4im0yeJdtPFBA"
+      },
+      {
+        "name": "PL/SQL 6-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "502",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:502,62&cs=3MX8zihu0OUctI7xBMsQGomJ7Ym7xYnXtASVReAtbcBcV8tu5gwSc2FTI7gxIZWdFt1Lj8hnNW34eBvizjXqoAQ"
+      },
+      {
+        "name": "PL/SQL 6-2: Indexing Tables of Records (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "504",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:504,62&cs=3i1tKCN27y4aO1wH47btI1x7RKe8SlOpQ998l3fBoU32WvgdFkEzQvW3eYEgOSZcs-nXeCCP_2u8YlAUtfECvSw"
+      },
+      {
+        "name": "PL/SQL 6-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "506",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:506,62&cs=30Dj459xw8rFc5tkQM_9oYQ_hgD4dMzzFnxDtKgdtMCF-VNiT1bMqcVPm5XqUnhZKjcF3l_62FvySgMNMyhctoA"
+      },
+      {
+        "name": "PL/SQL 6-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "508",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:508,62&cs=3rR8nadMuPduIOt9dEh8VeqtyrUEVf_EKvMMM-L62oVMSni94O0vYTpnWzoMlmbzICD_ar6Mk389GCrZ7QBTynQ"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 6",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7814",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7814,62&cs=3o7DLKTvfWD_iqGLvFpT895m_AGKPruXHunUDlEb8wDW9Zh9yxRu7fWS1iJcx-d2rDNeyZ2xgR-00dzjWZrKfeA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 7 - Exception Handling",
+    "p15Id": "510",
+    "items": [
+      {
+        "name": "PL/SQL 7-1: Handling Exceptions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "511",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:511,62&cs=3fjcuVVsXcaEOUB18m_g_W9WJ8x_RzaPOldw6Z1HnqmSC2PIqGBYmPtIw-XuT79JC0pwcza_iC6Viuv5WITC7JQ"
+      },
+      {
+        "name": "PL/SQL 7-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "513",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:513,62&cs=3eH6kksx_yPf_R7lWHqSRBXAhyHz0HKkiL-k58NJUyTkUj_kvhPaNkqp19eZjgJ1C2n7MGy2-BI_Q1IBGdFGycQ"
+      },
+      {
+        "name": "PL/SQL 7-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "515",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:515,62&cs=3E7oeAAPVaULfudQbfJycdD7GADdwc7vzhBwATtGaWDZnCILLlWgEPF2CAN9rw0fFxUWA64xCc34Eei30UZfxRQ"
+      },
+      {
+        "name": "PL/SQL 7-2: Trapping Oracle Server Exceptions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "517",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:517,62&cs=3Yihmvo1HKtFX7pWtfGBtpvFPVdyxWNAQ3RsVtjfZ_Y2e51joEID50GPbQbpODQb3MKE2Sdyi79Jua0QBG1Frsw"
+      },
+      {
+        "name": "PL/SQL 7-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "519",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:519,62&cs=3CNqmHH6LZV7tIwCrVexf-mVbUF42YA3vutJjbqzShHty4kT8Wb6oaypvA9ji6QYnvMZu56EVHTON_pg0_AVFEg"
+      },
+      {
+        "name": "PL/SQL 7-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "520",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:520,62&cs=3dEGElXqqYx02_hzcVfG1_4ZCfFaoYWeY98TSrXU9tl0L4qGhy-sPOZHAT-0p-ss_j8V899G9AOJ4VUElgnwjFA"
+      },
+      {
+        "name": "PL/SQL 7-3: Trapping User-Defined Exceptions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "522",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:522,62&cs=3kLq2L5bPjH91T3M9KgC-gPKSgTz974QomO0WS14UGy1x0cRJD9OGHh0dpyO91lKWs2aX9bsbT0lbIMbKyMzUfQ"
+      },
+      {
+        "name": "PL/SQL 7-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "524",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:524,62&cs=3Az70n1gtToYy9Yw_VHiCD-jBtI8y8NEtoMio6urP7XLIUhXUWOLvVF3Sh9_RKayZpRpTot2WXkC_mLD3RaS8Qw"
+      },
+      {
+        "name": "PL/SQL 7-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "525",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:525,62&cs=3mXuoRq5jeOBGJq5POpNA5qZooN3ua6VoFxyl4cI_oVHe7jcqFDsSw6wdLSX-ktctZ1g_cNy6Ru8BVXLJahPCrA"
+      },
+      {
+        "name": "PL/SQL 7-4: Recognizing the Scope of Exceptions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "526",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:526,62&cs=3N2p-Inb9fo0du6fIgaJPjkE-l9kQvwEdfugE9mgB-dsgBWBquFs-gliRzWJRodRL-m72gR8FiSt4y8B9dCe0jw"
+      },
+      {
+        "name": "PL/SQL 7-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "527",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:527,62&cs=3IVLq6e5bCfx72tsYdgyrCVEKj_mR15U-aNLQCePk0v0GNw07Ffkz8fdW_2MTSF1pm2pv-pPqbxRWVeQjRMwWrg"
+      },
+      {
+        "name": "PL/SQL 7-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "528",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:528,62&cs=3rqNB672nMG8ZDIGt-1o7GJ8pblsxbtd74CWVomg_wXBfdkVruBTZLMdY4YimF0Rb9Ep8yK8SUazC_8f7tj7ofw"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 7",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7815",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7815,62&cs=3TEcUr8h84Vuc-PU3QhkX8HLM-i9xAbqtP2mD01p_IV0mytYdQAzQUvwonvvuNVNlXiVh9dz3vBRadK6EcODZaQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 8 - Using and Managing Procedures",
+    "p15Id": "530",
+    "items": [
+      {
+        "name": "PL/SQL 8-1: Creating Procedures (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "531",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:531,62&cs=3zVCiAeV8dmrTMMr63URhxfCGM6VGm9ajRcJYdvmOtT6PJR3_uvQTJU2erw6EjZ9TvO1cFr_MzGXB85JjmM4Zcw"
+      },
+      {
+        "name": "PL/SQL 8-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "533",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:533,62&cs=3lU80Bo2uHX5_EtQs5dlZ7rSzd38B7fuho6aiO_PRuZ0bvyaGqby6F-uSYaGAsnnDdEcLT0A2MgKgV9uG9CPZSw"
+      },
+      {
+        "name": "PL/SQL 8-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "535",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:535,62&cs=3TxTQM3BNhO4wE0np2gHximv-LQpLals2iMp_rxYLH96FS6-J5FkHueKs_M8p3Oht5kgACNR1gAtM7ywsGal8PQ"
+      },
+      {
+        "name": "PL/SQL 8-2: Using Parameters in Procedures (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "537",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:537,62&cs=3079iOe-0IQ89mksySVWN3QaeoMu4sLwAEA7A5tnUzgiXQV78Hc2tppDAxalUyBs-KW87WREGoCyHNLP_pjuzlQ"
+      },
+      {
+        "name": "PL/SQL 8-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "539",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:539,62&cs=3zMO9GntUALP6Sk2uCr0tnLCIXE2xOPSmatzfCrh7EDdpH73rxJJAsisCTFeASUlYnjyatmw2BaTnHS48aQdG-g"
+      },
+      {
+        "name": "PL/SQL 8-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "541",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:541,62&cs=3lIwL8mzN8dLCiWgw4FQd7MSrnY57JY32lci3CdMr_V6lvsFxGh427kVFGAUhmDk6a5rNsVfCrRRUeFIVQmD_7Q"
+      },
+      {
+        "name": "PL/SQL 8-3: Passing Parameters (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "543",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:543,62&cs=37RZ8DwTKM1gfVwTjXDqHV2VMgvWtonG4nZZk-jOLQnhV-bsFE66bqQwhU1_wPPs1ic8K8BXULwKKqCB5dDwJiQ"
+      },
+      {
+        "name": "PL/SQL 8-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "544",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:544,62&cs=3tO65GHzCZxfYSx9ZWyRd1v--kXl9mgTMmMTtXalIWrUcVOSvLGSNnib_LnkB3UGcBvqo84XPsdVGDG_AHFeaEA"
+      },
+      {
+        "name": "PL/SQL 8-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "546",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:546,62&cs=3IRc353GpIHVsUvLQjTyD6M1Z3kQ5TAos8BQJuAFn2DFx7-Ls-7DTV7s_N1F3Do0xvVFHfS3CEqjugxoUaVnobA"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 8",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7816",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7816,62&cs=3anpooHjMi1NVFaAQBLw7sCul44Fft8SMAFGVNV-5K6OP8nkoEXxJuUTX8gUinzmc_-658oK1beWAWeEQi1vOjA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 9 - Using and Managing Functions",
+    "p15Id": "548",
+    "items": [
+      {
+        "name": "PL/SQL 9-1: Creating Functions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "549",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:549,62&cs=3zc4bOSLzAYayV1na_orjMughjdy2h9sAr4duSG7r9XfAEu-0OU0JEIh60fVGsXxeJaNPWM1vtJJBCu9-MGdgCA"
+      },
+      {
+        "name": "PL/SQL 9-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "551",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:551,62&cs=3pNfoy3rq4bz2z55LNoDYCG1JZMvofuB-WtZRX2dCHeuT01J1jz7Z1k3kdiEiAeh2_D7Z_5KToY5Qx7Yrg7CbaQ"
+      },
+      {
+        "name": "PL/SQL 9-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "553",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:553,62&cs=3wx09FrPT-cCtzoIsfQa2vpEBJT251jNivVx9gNhRD39fHrr6c0uO_Ry1-SDJjBL3wefdBVvIbibcX68Tr3LRIA"
+      },
+      {
+        "name": "PL/SQL 9-2: Using Functions in SQL Statements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "555",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:555,62&cs=3hl0WyFUXWqOm2TKdNfRS-LN7AhyDt_uRmaeocAseM5U8Dh6sX4PAsrbFmiZg18mB9yT7wsE2U5XaikTpthfA8A"
+      },
+      {
+        "name": "PL/SQL 9-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "556",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:556,62&cs=3WvkXGyMGaSjIj5VmYbkp4nDb63lTOuk0oSBkdC-kkTVONpGqwBCcOJLC12X7ayGoUke0JorUm-eiccgTGIymFw"
+      },
+      {
+        "name": "PL/SQL 9-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "558",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:558,62&cs=3s1BreErqzxC0NmfCgp_mIwBK9sp004GOCT4IUnhhIVgVflnGLZh6ZDrii1VRHIjaguhThPt1D_yOkSru_UKNgA"
+      },
+      {
+        "name": "PL/SQL 9-3: Review of Data Dictionary (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "559",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:559,62&cs=3h-8nyvL-AWX4mds9ukNZqyadCbbSpTosCPw6WpUE_EzVZtAhZQVA6EX9LvJLpuqzyM0I1AMTGkZGCXyMrHckCA"
+      },
+      {
+        "name": "PL/SQL 9-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "560",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:560,62&cs=3_EGiD-IUChOO1QcVDSiG-q4cRlby33nx5j0XpHviTmnHAXMT6gumdiKFx1fli2X3dAuB1tFbPPcf8u80Xm_fng"
+      },
+      {
+        "name": "PL/SQL 9-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "561",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:561,62&cs=3UHAkL6qgWZtnWx_6OKgFAo9V_LYT-Ain6WQdDviEWLlxp7bfFOgxXdKK-3fCjpQxfN77Y7xKDY-ujW-Ur1gUXA"
+      },
+      {
+        "name": "PL/SQL 9-4: Managing Procedures and Functions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "562",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:562,62&cs=3PYT4KUDR4swgmqXWxg6lVUT_CeP8SnyEQLz9YPP5G6zmA9ZebWTEEx9_bmiDxi5OwFCbnxgbmgxb4QWCiU9Qrw"
+      },
+      {
+        "name": "PL/SQL 9-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "563",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:563,62&cs=3fbo4MWDxp9n43eySK-eigImSM78k7G5xVc2pgYC-JMU5iG7WJbNeF3zQFvZCrA5Gre1AUqaJWJamNRDkLy2A_w"
+      },
+      {
+        "name": "PL/SQL 9-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "564",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:564,62&cs=3YKhS0vcL6uFExvaAkqcx4xtsfdsLpkXrDhv33VdW3JR7RB7zP4lCVL0hZQL-RevDR_XCYQUrptK9LhUqXXMlmw"
+      },
+      {
+        "name": "PL/SQL 9-5: Review of Object Privileges (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "565",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:565,62&cs=3O8bJhJ83MoOpHWbfReXf-6VE7O4fWIM5q3H5ZahEscrxIV5DL5BHDbEa8ySR8xOafop92luwBEjbqFEt3ihNuQ"
+      },
+      {
+        "name": "PL/SQL 9-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "566",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:566,62&cs=39RFBpM1KnZcxVhA3-ghCU6VuTpzRS5176i929_uCMXnjDmQ4bHbthEZIEe1EoMnx6LfsySn_o_23Z1Au7a31DA"
+      },
+      {
+        "name": "PL/SQL 9-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "567",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:567,62&cs=3IRkJjKi85-_v_hwdcMdHoVtcKS9-GD2L1HizG5pxztbm9NIfNiZyM_4huHpolLnnO0saZAmLwOLGPaL7KGzpkA"
+      },
+      {
+        "name": "PL/SQL 9-6: Using Invoker's Rights and Autonomous Transactions (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "568",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:568,62&cs=3HJbL-MELcgDodt8U_9_wwRbzJDJSYnKInbckVT-QZ9jZJBJ01bYuxaW9y7Fc811xdoxALrQmf10AnFPan5nTkg"
+      },
+      {
+        "name": "PL/SQL 9-6: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "569",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:569,62&cs=3YEaGwHRmB6V0eNNC6Drdt0MOcjMJ5msIj6pIndHI1yHUKUHku-ww9fRgnM7unOWCl8n9sWxe0Hva-VPFhO7XIg"
+      },
+      {
+        "name": "PL/SQL 9-6: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "570",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:570,62&cs=3w4x6DmJ8woPNXfjHBPxtItTuysbdGyfEq66iwJjK093bMrlY4oFiS152uJJ-3-C42MYwKfZ0F1GF3qCWNWlIvQ"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 9",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7817",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7817,62&cs=3-Q0F_fpxO-k5i3bPwwH1MtHYHzfaojea8aBuGl82U_APq57tI3XcBoIz5E8aLjD1OMOm_u8mjxe5Wdc04YaUzQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 1 Final Exam (S5-S9)",
+    "p15Id": "7818",
+    "items": [
+      {
+        "name": "Final Exam - Semester 1 (S5-S9): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7819",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7819,62&cs=3BQ1JosrFwE5CrOpjY51tikCpJPPrMvbXs9d7nIAxbOMpwDDF6a590KFdyh-zji3JJsB_ktXLXbuSL1WvmmxM7A"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 1 Cumulative Final Exam (S1-S9)",
+    "p15Id": "7820",
+    "items": [
+      {
+        "name": "Cumulative Final Exam - Semester 1 (S1-S9): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7821",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7821,62&cs=3d_hp1t63A87qP0kkpIGqO_mu1MhVg8yR4udPnnXmyQJTnckwJjt81u1-zgsOQzaqOlMfORv-V1S0pMaKbj9TYw"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 10 - Using and Managing Packages",
+    "p15Id": "571",
+    "items": [
+      {
+        "name": "PL/SQL 10-1: Creating Packages (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "572",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:572,62&cs=39yjKjNCPO4O1OyzRybUOuRdm1OmaDQs7lM8LxqJNilAIq7QWZnmrnnuJ1zn_8tG7Eifx5wWK5dsyBsM70exNbA"
+      },
+      {
+        "name": "PL/SQL 10-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "573",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:573,62&cs=31zJVVr05SnusyisTBNQKk2d7RqQ-8ygT6U2gzFyEC5K8bynRvLpw3hn0chitahMkNuAtgUuFa1S5yWyaP2b6-w"
+      },
+      {
+        "name": "PL/SQL 10-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "574",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:574,62&cs=3ytnmJldmPfeJ-rHYUr3fqPks0jevRiWfjLAsC5jQhX2zskQS9C54rcNyGHlJLM_842pxGo_N9BLDpD9aoR0bfQ"
+      },
+      {
+        "name": "PL/SQL 10-2: Managing Package Concepts (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "575",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:575,62&cs=38Jz_ShSdyjf4o4o7JDpjSn0VfQjMsbgOmK24eK9tjahTUzGM1m5bbykqtRabepVrYBofD_yQMGt16USrK3hmkQ"
+      },
+      {
+        "name": "PL/SQL 10-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "576",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:576,62&cs=3mW4K8gW5rU9xgrvv3Ljp5mYNTgcJ72tCT61q8NBwvNOkh-Ov1A2ixGzpC7I6HpcPwetAogRiYgZOshdL1EiCrQ"
+      },
+      {
+        "name": "PL/SQL 10-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "577",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:577,62&cs=3Nw49oag7awymXnqgfT1Iyo52KzYwD7pmcj2HTF7zsIt6TyRRHP3KQeRDOBG5OGk3rKX3qPzeJvL83uzy5ZKQQA"
+      },
+      {
+        "name": "PL/SQL 10-3: Advanced Package Concepts (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "578",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:578,62&cs=3Ia22a5WATX4xu_ADB-aTSKKuAcJF_wUFTiUucFk0wWWyu2jkH4ZVFw3-Ic9_Ywk0WrxttMUh5xhR9HlpKkKOLQ"
+      },
+      {
+        "name": "PL/SQL 10-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "579",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:579,62&cs=3Wn9iyrz9j1alQcjNP-AZSvqujXq9RsDG_h_KAz2XxpAujQHy3Wl0QrdThD-ghibNP6zDFVdop1azcIrGnIBKbA"
+      },
+      {
+        "name": "PL/SQL 10-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "580",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:580,62&cs=3ukqf1QEjUMSMrRFBPbNUzdrjhkcCxcK4n1rJNhGggxuc6eitqzcAUD8owIdWQf9_dPkiigXowoO-W0Jw1vOO6A"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 10",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7822",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7822,62&cs=3Eb80IqVz8ilkFWeoJAQqelQDP72Bv92W4N6FwzfAt9iyUOLtY5n9SwMdIu_HbwxwCiJIFczYXfazwIYz9aYNJw"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 11 - Getting the Best out of Packages",
+    "p15Id": "581",
+    "items": [
+      {
+        "name": "PL/SQL 11-1: Persistent State of Package Variables (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "582",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:582,62&cs=36OFP7OCGtu_elRnJZfQ6XERkBR1NVQUi_C1wOJHPdvaq5ZQDrNYQnCJRwmw57NM0em9LhAMXms0VLCaVZG9rAg"
+      },
+      {
+        "name": "PL/SQL 11-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "583",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:583,62&cs=3ZGOjIY_RrMS4KxU2RWD3Sqf-EUE6FPuB45SvGRx9Mm5eGTz7z9eMY8eLX30Fd9h-aFIZS5tJiRS2OsrMxBVpGA"
+      },
+      {
+        "name": "PL/SQL 11-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "584",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:584,62&cs=3Z8SlKw9kUbpjR0gefiEM8X3fHLv88DxIT98OMQnPic5XVEtyfOUfpDljpba11m2qlNpjEogtkBPs_eTEnbLf1w"
+      },
+      {
+        "name": "PL/SQL 11-2: Using Oracle-Supplied Packages (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "585",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:585,62&cs=3qrYgMhYnl4OzldS6PrQbyTqB8MVtCIym_xSzMfzgYkyllmwTBNA9ErForzGOOJp3gxu-Suof55-vN7tydQunsw"
+      },
+      {
+        "name": "PL/SQL 11-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "586",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:586,62&cs=3H17nN7xeDFmyVUMHm0KshYRNFS3R74dfqpz1Ar1bK5TBuFoameRLmw2GImFXMAsXM6NynRQIJhzF40SA_IpJSQ"
+      },
+      {
+        "name": "PL/SQL 11-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "587",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:587,62&cs=3LjsAJleOh5ErETPi62TIMz5fqThjNTlvO6JeiXS9k0x4nQfzP5GDkA38YhfVPitQhzJwhcn5SKv-6QRzBN1ZiA"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 11",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7823",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7823,62&cs=38wqQO4f3Q5cUCvfqIA5FOnN05-3C1Y2LXFhrwZ__SIsgrY3KXhm5F6gXqKrvvMfZFSKNLo3bYafE_udOuj207w"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 12 - Improving PL/SQL Performance",
+    "p15Id": "588",
+    "items": [
+      {
+        "name": "PL/SQL 12-1: Using Dynamic SQL (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "589",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:589,62&cs=3ZC4cMgrQVy6A4KDNRhhBhvovgTNTz8-bTk3SLWgQq7khMfxY9HGEUOjX3uUrCWEEocfQHkCCsND-2Lba6YkIsw"
+      },
+      {
+        "name": "PL/SQL 12-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "590",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:590,62&cs=3eNBmx2b3Vw2klC153KrQNTc0CDmuPqLhIYq87CMdA_GO4hc6IQ7ee6EGVMu-U6eULmZZOkMnZoJee7Lt6uif-A"
+      },
+      {
+        "name": "PL/SQL 12-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "592",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:592,62&cs=3QpFk0cWm-DKb03vaJvo9tuTFr2UctxC548Fi2ALKTZio22g07UVPmI2jBBqVHj4FJ6l9-GzXLCPMqIxub2Dvug"
+      },
+      {
+        "name": "PL/SQL 12-2: Improving PL/SQL Performance (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "596",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:596,62&cs=3gkaYT406NuDd1BnOQ9wQkgOkV6E6mQaC0d7PSeWyQzySpIPJGKNwUhKcuCRTKLx5ZW3obYM7n97g8g-BCSvtUw"
+      },
+      {
+        "name": "PL/SQL 12-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "598",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:598,62&cs=3B4-mL9a9T7sHHS--XCxszskovfFCeEX_AzF_W9WLVAWqoj3PAf2AjyMpp1dGhBacGt1SResPO67ItbPh96fdFA"
+      },
+      {
+        "name": "PL/SQL 12-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "601",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:601,62&cs=3QNYsnhxqDuDu_OV5KkwTzmiI_vomzNZjraiLiFC9o1PdhvCl710mwp_Q__GAtVJRPL6qkTq9tc6PWv2KIcGI7Q"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 12",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7824",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7824,62&cs=351u9L-pUKQgjmPmmcmNFzUbN7KXMDJHeeyHUkVKMvCKbqbx0Q0uFgOI5dB4j4H9aBAL1EWD2p5xWIgzg0erpAQ"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 2 Midterm Exam (S10-S12)",
+    "p15Id": "8442",
+    "items": [
+      {
+        "name": "Midterm Exam - Semester 2 (S10-S12): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "8443",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:8443,62&cs=3yf9gpvzo_Jf3MByFnZpAzGCkn8CpH7vmGLja_wmbL6Fxql8sxWtJzqwmtLmNTlJMNQgaRiId0DAtqjndsyHJNg"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 13 - Using and Managing Triggers",
+    "p15Id": "602",
+    "items": [
+      {
+        "name": "PL/SQL 13-1: Introduction to Triggers (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "604",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:604,62&cs=3uN6KKWCsb9lygahuqZFDXI22rcHbOW3uiUIF9__-vTokTys4tB6tCsLtjxqs886yU0C9RlRgxwXbm_fmzphPTg"
+      },
+      {
+        "name": "PL/SQL 13-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "605",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:605,62&cs=3Okvdd8SIqQaOD_QH6gNyTriOaC6H01RtLFnXaDeSG36t_eZz33y1wBSirJfX0U73ltcP-a25OAsQq0bBF4NEJA"
+      },
+      {
+        "name": "PL/SQL 13-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "607",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:607,62&cs=3gCVqHkGcFKPt1xefkX7uN0dInOMSknj2_kCqXKkO6lhiDXAKHmeFmn7nTxZx-ir870a0gztgqG6DTm7dHKa48A"
+      },
+      {
+        "name": "PL/SQL 13-2: Creating DML Triggers: Part I (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "609",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:609,62&cs=3PxTVhL03ltanDrxPNmWsPDQvR1e8o0zBx2zesnN4riPRH1Q_yhHvHn0JBoLoNY2_wA5qYvF3Hrq49DAcPMFHcw"
+      },
+      {
+        "name": "PL/SQL 13-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "611",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:611,62&cs=3p9idx-VddkdED8qqLfSdoGoWv5ZZiLAwnvv3YrERJjVYL9AqaYcB8ir714RrjatKqidtNg5DLBnGmZBJhp5UxQ"
+      },
+      {
+        "name": "PL/SQL 13-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "613",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:613,62&cs=32IW2_zmaIdggIIJKqQofN9r0lj2CqikMfjYRmwvYiQwHzB_Rxurx1X6dd8fiPT5j5l6G3g_xdvjpm8JgWPk4vQ"
+      },
+      {
+        "name": "PL/SQL 13-3: Creating DML Triggers: Part II (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "615",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:615,62&cs=3eOhE0D_gNRO_C7qv-51Gup0FU4ux_CJaullyaZvu87hjnkVR7nzfVBQUKpCkFmQ4513a-4e8_ZbzwYP92XggmQ"
+      },
+      {
+        "name": "PL/SQL 13-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "617",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:617,62&cs=3wHDK8ESVE1HRNTeZmSPJbvYwo0hPboQnKw307kVJBjroDCdtt7iTu6ssVwS7C2XYyxrHbII_d1UNkwHWjdU7rQ"
+      },
+      {
+        "name": "PL/SQL 13-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "619",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:619,62&cs=35eF1v9M3d10xrKg4FZ-dS0VYZVaRK7_tzqgDYS1r9lNWmhFAiqnB_jqp8HXLPLMsI8M7BRcr43KZ62pPkLd8iA"
+      },
+      {
+        "name": "PL/SQL 13-4: Creating DDL and Database Event Triggers (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "621",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:621,62&cs=3AAp4UPXRv4Pal6tPjouBMF0ZN1wawYtnEhm4VjDGQM1UMnIcUCBKXzwLcRzCct0-wsEqSjGL5AdlK4U5e9eatw"
+      },
+      {
+        "name": "PL/SQL 13-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "623",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:623,62&cs=3934TwiuW3NjxZTcsFT2HJBJrzGBt9b7kVIBflxzciKipmJVTUXuBYrWvyAcVDpVw1l34VsSKjbDLq0wbEvARNg"
+      },
+      {
+        "name": "PL/SQL 13-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "625",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:625,62&cs=3ZIYPMUTJx1fhDVyCHt3hCtgfdGD53-fD9TP7bK4ziFPHHLz9evGo-ny364_l5G3tgxyxOY4bNvbJhUjvYF3_Bg"
+      },
+      {
+        "name": "PL/SQL 13-5: Managing Triggers (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "628",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:628,62&cs=3L6WtSabGr2TCjxajuMh9wI2O4Gl3C0nNDLyOmkGZk5kJqv-oM1htdme6Y-gFWYFrho-3BeuSTTT0KYkPoRkcZQ"
+      },
+      {
+        "name": "PL/SQL 13-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "629",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:629,62&cs=3GoMs-Wgxs-HMGTv0v-csewoW1UIWytZUUopqi3uSkqwe1PmVSvbX1BDVcJI7Bja88e20XpcLafd34xuzMxXVFw"
+      },
+      {
+        "name": "PL/SQL 13-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "631",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:631,62&cs=33UqhFVQc6RdRkR3r2RlWdIJERlGaTBSltL-RHNkvZMxr5aeSaWKb1KY_z995W2rOGz4EJPO3Y5KaM5d4cRYUsg"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 13",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7825",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7825,62&cs=39FcgFgNEweuJoJNIGt5MRMUeIvNF_jphKMVt8PvuZjstqirWeOuAZNAqAgX4pZUkWcFEYc05ZOo0Vs6Mlj524g"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 14 - Recognizing and Managing Dependencies",
+    "p15Id": "633",
+    "items": [
+      {
+        "name": "PL/SQL 14-1: Introduction to Dependencies (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "635",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:635,62&cs=36LKRl7evZ2fcNIcT9HX6jefphxxC4KS4n33jDCdybLJbwwy2pn8jcV_qQB057qJSCr57ChyaABPFnz3OsyZkeA"
+      },
+      {
+        "name": "PL/SQL 14-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "637",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:637,62&cs=3_wejNvijE7oJwrAZUgL9bmld7BDjzBFLBOgPog1638JMtfkctUNXK73aEMYj4YUHoj3OOuApE2fAQ4UZ2b1_4A"
+      },
+      {
+        "name": "PL/SQL 14-1: utldtree (ZIP)",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "641",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:641,62&cs=3xWKadrBnxx7CUpNIhe8BfVvnzzc-SYx2z5SkJvKutlumZjQ4NphIfhLvyQTdi6dSon1Z8T2uZ27YoRV-Z_mTAw"
+      },
+      {
+        "name": "PL/SQL 14-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "639",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:639,62&cs=3SxbkfDdUXzDmvrmIXwgUpl3K_IZ9eYJT1dcL2LzyUpQlYio0oddMakJZa2H0fhDpWnGNkBE17Y-LbdNKK751ZA"
+      },
+      {
+        "name": "PL/SQL 14-2: Understanding Remote Dependencies (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "643",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:643,62&cs=3O_hgicUiDckdQ30PpO4GvdSJKgOwCKOH_T2jrJ36EJaBsSl2amUC2LwES_w_3BNbFm95BkQDKkYHxsB_XDhCjg"
+      },
+      {
+        "name": "PL/SQL 14-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "645",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:645,62&cs=3Rzb5-sP4QY3Qa2YQZoKCj6zX8N68MDwWhLphThiYmyYgbrDvhMs652Zk4YSkHfdCQ9Wk2BwCLFgqYz5FwdpNSA"
+      },
+      {
+        "name": "PL/SQL 14-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "647",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:647,62&cs=3Rd4I_11tCqG4cZTi5dg6_hvkzMS2_ySBxACiI1gTXMy_GKhLHBmmjDJeQeqir0iyFO4T8VsCLeEZVBbGHEzVzA"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 14",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7826",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7826,62&cs=3I7qqvq6MN936MEDFww0WS4eXlCpUCZwJwyrHChsWylNc2DRuSMZP2_2wRcd8Qk8V4fAbbW2muo0A79pQCoyNCA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 15 - Using the PL/SQL Compiler",
+    "p15Id": "649",
+    "items": [
+      {
+        "name": "PL/SQL 15-1: Using PL/SQL Initialization Parameters (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "651",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:651,62&cs=3tC_ULSnUYcsGGitTQLrHj3b8E6JK7y3Gq4Z_hIDRX5jPwve1lr2LbBRN4unyGCzi8xr17vdohQhah9fL35hgxw"
+      },
+      {
+        "name": "PL/SQL 15-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "653",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:653,62&cs=3MxoOnI5O4YYQA0B_dSVK0yg7OcgpXDfIYJ_JNUiaHB4FBIpH0OC-fYUMboYgMDVcCfbj-TDD3K4gAc9azfMZiA"
+      },
+      {
+        "name": "PL/SQL 15-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "655",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:655,62&cs=3LVeZXmJ9qmJ7uOHPip9pTeGHajbclZ63a-KeEZpF8R1Fn3AjU2Mf9z5hXyZfojzAwnKBvgiOKjKIDO5qPJfcHg"
+      },
+      {
+        "name": "PL/SQL 15-2: Displaying Compiler Warning Messages (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "658",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:658,62&cs=3Z3CzJ-zsf4jzOKdowvvIqzX2hL9RReszeKaStWkvmQNwyAgrgaRFwsYbOxqd3quluOevdz4D6SaOjVEAyT8RNw"
+      },
+      {
+        "name": "PL/SQL 15-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "660",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:660,62&cs=3GK01gJ7CdTgdLOZHr-82u5AhyS7tLveqAmQ_AdqPxZ9vh-sHiSuXEMMRx0WeQIt3ZvqAcBpqglfKcekJX0MjxQ"
+      },
+      {
+        "name": "PL/SQL 15-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "662",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:662,62&cs=3bhBJFRNvm_ciRj0sIrpbEEmyQ8SEe15tdkNyOtQ4JhGIFKdlFojBQeZlpco1--wY-oXaqzSe6qhCemMRMohbeg"
+      },
+      {
+        "name": "PL/SQL 15-3: Using Conditional Compilation (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "663",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:663,62&cs=3gzERJIT6weUJE4V2G_efvClLcUYOQG1hxp51BvRbULpu_y8RaVyqJCPMFCoWje6BgBR0-Bv4ThBtN7uLv9IuVQ"
+      },
+      {
+        "name": "PL/SQL 15-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "665",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:665,62&cs=37cUIk_m38hXGZ17UtsjNTwDBgJQkxB8HjvX8cdEmM74mukokJWzS0bFUgFuvZOco6oFeLyUjLxSJo7h14aYpfw"
+      },
+      {
+        "name": "PL/SQL 15-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "667",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:667,62&cs=3WFgoXlSkBxY6Loo_JBb6qu3b0_yqDo0MyNfNYVHf3XNf7JfD0O2LzV0JuzI-SvOzfmEtBWrwM9V3cOJALswnRw"
+      },
+      {
+        "name": "PL/SQL 15-4: Hiding your Source Code (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "669",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:669,62&cs=3m020ZNexp7CsBId1mJ9pKR_omXsEJNrgxCEuAJ2-1gsyZOTTizbMu-RWs8R4mIOA2gYoGajsZujcD94Rg4UAww"
+      },
+      {
+        "name": "PL/SQL 15-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "671",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:671,62&cs=314aDm_duvW7w7SpithMeNkv5oBEEQ_Hu8lqPuTNhDdB6NriB5QaFq0lbQoiVUZRM0ZxgoTL5PCk5XtlMPgdOXg"
+      },
+      {
+        "name": "PL/SQL 15-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "672",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:672,62&cs=3dPmaTM5fox6TAKetKlOYcLh_HZPcSx2ELC8YVi_G0d6Mi9vxajvwdApSMUHn7EDyv_p4FFv85RbzbPFpHnDzvw"
+      },
+      {
+        "name": "Quiz: PL/SQL - Section 15",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7827",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7827,62&cs=3L_BW0aFJBa3qMCgZVGYSpxk7yWBaRsLpCR4_bpct277BmjbWepUCdngx2z3DslnLiLrSL1idex1LGDp1ju6HSA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 2 Final Exam (S13-S15)",
+    "p15Id": "7828",
+    "items": [
+      {
+        "name": "Final Exam - Semester 2 (S13-S15): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7829",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7829,62&cs=3UpFBg4ydge4QCCYU7k7B9cbcaye8GMkO81dFG6AYLRpinSTAzIAaErPW_h9Gwfs1Av99XBHAks8-ypxub68PGg"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Programming with PL/SQL Semester 2 Cumulative Final Exam (S10-S15)",
+    "p15Id": "7830",
+    "items": [
+      {
+        "name": "Cumulative Final Exam - Semester 2 (S10-S15): PL/SQL Database Programming with PL/SQL",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7831",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:412830123782589::::P15_ID,P15_COURSE_ID:7831,62&cs=3ldMyAsXZFfXNgYI6QG0iTrxFph_WlToEiYojPTbpABzCRhr7o3KcUKNo4vGj2V89Ncx0Pq2sqHtRP5N1JbnfjA"
+      }
+    ]
+  }
+]

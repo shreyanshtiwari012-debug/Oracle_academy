@@ -1,0 +1,164 @@
+[
+  {
+    "sectionName": "Section 0 - Course Resources",
+    "p15Id": "6",
+    "totalItems": 7,
+    "quizzes": []
+  },
+  {
+    "sectionName": "Section 1 - Introduction",
+    "p15Id": "15",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 1",
+        "p15Id": "7706",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 2 - Entities and Attributes",
+    "p15Id": "19",
+    "totalItems": 10,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 2",
+        "p15Id": "7707",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 3 - Relationship Basics",
+    "p15Id": "20",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 3",
+        "p15Id": "7708",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 4 - Super/Sub Types and Business Rules",
+    "p15Id": "21",
+    "totalItems": 7,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 4",
+        "p15Id": "7710",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 5 - Relationship Fundamentals",
+    "p15Id": "22",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 5",
+        "p15Id": "7711",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Design Midterm Exam (S1-S5)",
+    "p15Id": "7712",
+    "totalItems": 1,
+    "quizzes": [
+      {
+        "name": "Midterm Exam (S1-S5): DD Database Design",
+        "p15Id": "7713",
+        "type": "exam"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 6 - UIDs and Normalization",
+    "p15Id": "24",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 6",
+        "p15Id": "7714",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 7 - Arcs, Hierarchies, and Recursive Modeling",
+    "p15Id": "25",
+    "totalItems": 7,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 7",
+        "p15Id": "7715",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 8 - Changes and Historical Modeling",
+    "p15Id": "26",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 8",
+        "p15Id": "7716",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 9 - Mapping",
+    "p15Id": "27",
+    "totalItems": 13,
+    "quizzes": [
+      {
+        "name": "Quiz: DD - Section 9",
+        "p15Id": "7717",
+        "type": "quiz"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 10 - Creating Database Projects",
+    "p15Id": "28",
+    "totalItems": 11,
+    "quizzes": []
+  },
+  {
+    "sectionName": "Section 11 - Presenting Database Projects",
+    "p15Id": "29",
+    "totalItems": 12,
+    "quizzes": []
+  },
+  {
+    "sectionName": "Database Design Final Exam (S6-S11)",
+    "p15Id": "7718",
+    "totalItems": 1,
+    "quizzes": [
+      {
+        "name": "Final Exam (S6-S11): DD Database Design",
+        "p15Id": "7720",
+        "type": "exam"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Design Cumulative Final Exam (S1-S11)",
+    "p15Id": "7719",
+    "totalItems": 1,
+    "quizzes": [
+      {
+        "name": "Cumulative Final Exam (S1-S11): DD Database Design",
+        "p15Id": "7723",
+        "type": "exam"
+      }
+    ]
+  }
+]

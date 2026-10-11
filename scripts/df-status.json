@@ -1,0 +1,986 @@
+[
+  {
+    "sectionName": "Section 0 - Course Resources",
+    "p15Id": "205",
+    "items": [
+      {
+        "name": "Database Foundations Course Map",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "206",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:206,38&cs=3l9fpjpyLpWJCpRmzTSJZOHCjOOMKtw10DaxBexniZVTX-7GUwouCaNMqVK2ohbLXJ8QH65cc102OAdfwbh98JA"
+      },
+      {
+        "name": "Database Foundations Course Objectives",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "207",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:207,38&cs=3yEWoRUPpVe7fyL-ddaHs7UQC9eriBei8ro5w7iyquXQvokkSNNHAeh8Hty_zbst8r3tzDvQ6cL5zto77gX9gFA"
+      },
+      {
+        "name": "Oracle APEX Learner Guide",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "208",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:208,38&cs=3vPBNsWchDZlngyPq0Tijqzgp-Yws7S8wxO9LmBEX6UX7FfT0eiSL6-dyYbZo4PkMS7GN98WT1IOouBuWzTdY1g"
+      },
+      {
+        "name": "SQL Schema Script (ZIP)",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "209",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:209,38&cs=3kyE_pZjoBAdZlKsMB38ki1R9eSBXZ9bCxrWR54NlhrkHOT0aadPpSfcZ018ZEDOEMjLbOhyVkbM056mK-6kGIQ"
+      },
+      {
+        "name": "SQL Schema ERD and Table Designs",
+        "type": "item",
+        "status": "Active",
+        "p15Id": "210",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:210,38&cs=3WKBsBanc7cmtmm8n6a2gAZYSV0qtz9tVzRv7Ut-JmIppg57XUh4FnOQ_S9p904SL-sCpbwm0QTuqFREIfm-a7w"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 1 - Introduction",
+    "p15Id": "211",
+    "items": [
+      {
+        "name": "DFo 1-1: Introduction to the Course (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "212",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:212,38&cs=3GwT9NYgIgmC_56MFyW28nV6mAnS9O36qVL_xxRUve15Je56Ij7bbcVfxPjlHAhggvrgfyni4njQ38byXOmMJmQ"
+      },
+      {
+        "name": "DFo 1-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "213",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:213,38&cs=3JYWk8_LZXvP4LzCdJi3VVG-CCZqYsZI7dMIYar7Cov5vbfmm1UhGdYtSRfuydOMSp2q91XVPmlmGJJ_qFn0blg"
+      },
+      {
+        "name": "DFo 1-2: Introduction to Databases (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "214",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:214,38&cs=3voLJyNwF5XS9UKN10alaGQ5DST5Wb8FMlJR32HQ-BonIu_a8xn8INXIEPC1D93jyL_Kg9iD13IaF1CLYDlBxsg"
+      },
+      {
+        "name": "DFo 1-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "215",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:215,38&cs=3G7woJiA4io7TfufgsIZIkdb_JR-_YqzrwjUTk9LVznYnB05mGFZk0a0RHvQlnrZiPelKVB8y-RhdpYXJiuA2hA"
+      },
+      {
+        "name": "DFo 1-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "216",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:216,38&cs=3M6afvSIei6dSHVJR0-pEDwoYpM_lg5lyAkaWkSDpkL5AhTGJaJnKB9JZtq3EBJmq-3Et46TClKqffOxqy-Rgng"
+      },
+      {
+        "name": "DFo 1-3: Types of Database Models (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "217",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:217,38&cs=3yL6hKi8ivyqJi_oz0VRNTSO79HzI4unHJknL-0q7p6hFLtnH5DEzK1RL0qij3-wDm9iUiJDquD4HpEQGw_CUqQ"
+      },
+      {
+        "name": "DFo 1-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "218",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:218,38&cs=3v2KmvGotkhwOH5jr079iZpuU1H7le7GBjyY3NwbB4Y_KCt9E9NYVXBc2PbB53CBN6CjrtVy43YEhlx1NZmIOfg"
+      },
+      {
+        "name": "DFo 1-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "219",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:219,38&cs=3-4_prolHmFXbst3TXXtuLsq645CDA83lZofCTNFiMvVSwPVxR4mv3XGiXZZv-FGkZqLGOM1KY2OvdqE8DBNGag"
+      },
+      {
+        "name": "DFo 1-4: Business Requirements (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "220",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:220,38&cs=3wQMaX3PE_n9neE5qpanl1VcdnLYESf_g0cbx2bMGdttau6SEqiDPhJ1pRX_9qvupGhGFBXZ5dZLyMB4npzav0g"
+      },
+      {
+        "name": "DFo 1-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "221",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:221,38&cs=3JSDudf3yhCVg0_MkQpGq5DV0vEnIc01s2U2M1cFiZifiKTwFVxxYlngMrrU--0CNueXdT4e_95qoynWwBvwtBg"
+      },
+      {
+        "name": "DFo 1-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "222",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:222,38&cs=3L_gyYpW0haa-w5cw_ZmKdA266M7sTA6OHZzMlaEolH71E20znD3AdYjIlER8g53HcGpatJgbCRZCBkca3wjV1g"
+      },
+      {
+        "name": "DFo 1-4: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "223",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:223,38&cs=3kYKeRJDp5q5NPWqfOCAe6cDWPd37gbRc5fTu0TXAsHcqklJNIvdsQG19JfFHR6hnCj_hx_htif2q2Z16otdrxg"
+      },
+      {
+        "name": "Quiz: DFo - Section 1",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7742",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7742,38&cs=3phd6CBqjlqjztP6mp8a1EcFUVDFC8kNO4gDolW6icO44zdZaW6lNrzZOPn8d2p15TyRYHolTDAvZZ_cmAHg2lg"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 2 - Databases and Data Modeling",
+    "p15Id": "224",
+    "items": [
+      {
+        "name": "DFo 2-1: Relational Databases (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "225",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:225,38&cs=3ep4at5Iue-LNHaVt8wC41fWjboGUf9zfSxYsBgy32p394apYYxwGVP9XKJHCGrAhVKgr07LiZfgDJgT57eU5UA"
+      },
+      {
+        "name": "DFo 2-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "226",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:226,38&cs=359yvv-sUjypr4960eaSa4gdX_xprByuO2ZMRA669DNP_z6axlSKYXd1AZUgr2bo7rfaA1Z8ni-8UIPOhZi4elg"
+      },
+      {
+        "name": "DFo 2-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "227",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:227,38&cs=3x_8dIUysNQ6KYGw6TwVTCLUn2uq07bo0mBd8iHnBhlKgVWjAI0MkPIYoLCrIrRmU-Dm-Lh6oeW3HeDCGKiRAAA"
+      },
+      {
+        "name": "DFo 2-2: Conceptual and Physical Data Models (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "228",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:228,38&cs=35TFgGv1EXk_-No3_o1cyhLGaBE2Bh6VHw75KBZtBH0pB4A188AZgJE3YjkvDw8I70_1N1R54ZDm50Fh500U-ng"
+      },
+      {
+        "name": "DFo 2-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "229",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:229,38&cs=3hVyeSb0KhvqpuvgalK1-dEjGy03cUvzWvC4fAn3P5f4TDGqThgXomXWQIIQrj1e66-jbKE-3oknc_1T5P9P4Tw"
+      },
+      {
+        "name": "DFo 2-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "230",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:230,38&cs=372wOojYdZFPrMWaQAcFCbW5g4ZKj1vDoGTRuSeTmT91yG92BGqMDrIu_j3wWtvhFKJnl7wLLwp21r-4UKM9Eow"
+      },
+      {
+        "name": "DFo 2-3: Entities and Attributes (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "231",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:231,38&cs=3VwAV3MtMdZuP-waolXezf6oG8a2Ai-97VfYSuigKrvBPtl6QZG5L86ZM57h-fRA9QzIz4q1aCdkTzMghB2Hi4Q"
+      },
+      {
+        "name": "DFo 2-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "232",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:232,38&cs=3banKqYB3mgzZvOHqST_7CXmXjD2hZxZAF2q0Xqn6_-OqmyBqPxHckCUZvO8lOTWN0-dG-wEIoanrCmfJCkqRCw"
+      },
+      {
+        "name": "DFo 2-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "234",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:234,38&cs=325TDuxfcM8ZQ40otnhO_jX3XO4O-5QSRx7fwPZYbAy5jxOtMeDQ36tv9lGPMXkjhYBkaEPFnro4b8O0efLr-0A"
+      },
+      {
+        "name": "DFo 2-3: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "236",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:236,38&cs=3LBoXgrnGs2NNI65YW-B2uNM-kmMg3vTdnFG2BcloD-X8RfouFCEGVlyN-cm9dz0WX3_qny16LEAMn46Fp0SO6Q"
+      },
+      {
+        "name": "DFo 2-3: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "238",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:238,38&cs=3rT-e4OIsbVPWkEjMEcFGbUi3GINaZT4GY8pcnNqmIvThjgMXwxXXRJ2Ofto0yQ6AkNMV1lk4lFu6SSfh0zgUEg"
+      },
+      {
+        "name": "DFo 2-3: Project 3",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "239",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:239,38&cs=3ou8ml9Hi6phit1QNMRur0Yu7aJk0zXfpTbZC7h0UXdyYNOVVHxIei6ZLKwaC45g4Ki-F-L_0RmKihVL5ENJvUA"
+      },
+      {
+        "name": "DFo 2-3: Project 4",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "240",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:240,38&cs=3xabx8z75OTo2FnSVLIZm4DDq9hzACrbLQ1KmnPk_hnRl7SfRP3wa9vYfjqJTe_gk9jf1TWKTIiss_xjXHr-xbQ"
+      },
+      {
+        "name": "DFo 2-4: Unique Identifiers (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "241",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:241,38&cs=3YYpQ4pTbBWCbvRWiCBi54I7E8diVYRzim8PJ0bI2s2s3i_DRSDRI7YsLC5fTyBAvEpbCuxc2AjLW007nxASEeg"
+      },
+      {
+        "name": "DFo 2-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "246",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:246,38&cs=3nMc8mqkrjhFygVpKlKGYmEtOBNG3xKyMRANJ-JzeznDL5h6EDLm-b03mwFWkeFJjvLbmlSdzsQ332-X16hs10w"
+      },
+      {
+        "name": "DFo 2-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "248",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:248,38&cs=3QMg3dq5rKfLN0j_5auHP2PLWDwj8OVH0bbgrfDJJuJUWvf4vOn_ssdim1SGU5cZBosGuqxId9Tnv6JrPS3Ernw"
+      },
+      {
+        "name": "DFo 2-4: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "255",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:255,38&cs=3tgGRGcGHILtDX9Z0bJEamhP5YV8wkmkchnr30fp7D8VG6Jlk5ReuIr_lcxWQ-7GjWE5p_sxUbz1pjXiDwFdL0g"
+      },
+      {
+        "name": "DFo 2-4: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "258",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:258,38&cs=3obvi5knMWx8ur5Z6GKt8joUqJ-9ThU3k7ptvcV1h5K6sNUrl5ZrmSLCP_sez3DkYifORKfuqD-FSZCYNo-Ujsg"
+      },
+      {
+        "name": "DFo 2-5: Relationships (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "260",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:260,38&cs=3a7nJQzRfYNLHh7jLg3pURSoD4eqg5A8lVKi0IUVhfBoivCKIeB8UfUwuW-OBN3wLbyBwHRUcC3EWY4Q7qzipnQ"
+      },
+      {
+        "name": "DFo 2-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "264",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:264,38&cs=3RBJHH0rWJNS9Jsj2Vb77fLNU0HdpUY_z4JrlCuTxL3aoem1bArhOA1Qg9hQsloz76LzwBh8nFjJC3CD6xoPbMQ"
+      },
+      {
+        "name": "DFo 2-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "265",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:265,38&cs=34pthsDw2gwsRerenAl1oyEu3OI2x9pMZXSL0w2BJyrxpWM9UERbPeD8fSmCtJfDCe_Gd_qDhZoeODzZedZ5D4Q"
+      },
+      {
+        "name": "DFo 2-5: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "268",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:268,38&cs=3CYk9sQ_mNurmNPJb-iX4SQd7y29R6nbIJO4rJ6LqMLEre1oxre0UGf76nxRDOJ2hwITKxX7ECxCGaZFkaXWsdw"
+      },
+      {
+        "name": "DFo 2-5: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "272",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:272,38&cs=3l_ZlAxN4XcVJ7SVRBfMuvySnn8gKvTrVknLy9vyeQ5mwdCXeLiAwJMsyeCIl75zo7DtDrAO4Zzzc65Ssx8gseA"
+      },
+      {
+        "name": "DFo 2-5 Project 3",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "273",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:273,38&cs=3IpjfTkXQHKtSElc69L3akhU-ydz93nlikAisTwayXQ8yi-cuFkwOEwgrXQV0U1EjfKlQz4E66QKkOROds0k9og"
+      },
+      {
+        "name": "DFo 2-5: Project 4",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "276",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:276,38&cs=3aZoPi7yoGLfLrp1RbgDZs9a0C5zbejrNWzXJHDA-bTYGDtbyVkAZWLJipUUE-_eqxLbQxn7IJsuhJIADmMKrIQ"
+      },
+      {
+        "name": "DFo 2-6: Entity Relationship Modeling (ERDs) (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "279",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:279,38&cs=3iTLTyiO-GRL83VLBE-hqTonKP8QIPP5e93D2wQCDNrZJun2z_c3jDkI8UAUxKKzgHbWoMKHTww8qfT0xg3-HTA"
+      },
+      {
+        "name": "DFo 2-6: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "281",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:281,38&cs=32YgR6jY4iE2mDwVXgEx_-X3VE2NjLC9dcKTVqkR3GrSGbEKLGHTKrrbc-1yL6z5_1qem_i2Wv8b1FMJLwJ1Neg"
+      },
+      {
+        "name": "DFo 2-6: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "284",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:284,38&cs=3tyh-HHBR881yiKxO-md8CNvc_VsxENUFksuiT-MFlFdGW6BtNrjcSDWZ1c46Pm3DqNannPb8N9l4XPV7GXSOsQ"
+      },
+      {
+        "name": "DFo 2-6: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "286",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:286,38&cs=3HiOHvnzZDsCYjIL8NKXlBNDxrtNMUd6nwleok9m5f0cVM0Wb6OIAMQfs6-tcTqWjzX3U6fs0Fqttp9pwluDbYw"
+      },
+      {
+        "name": "Quiz: DFo - Section 2",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7743",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7743,38&cs=3YjsUJq4eBy3WEqnT5mWMqdR9SACvlt1KNKS3I3ysmLAbkJAk0ZAfzLdwU4Ocx0InnPi-RvJyKDUOhxMgV-Kh7Q"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 3 - Refining the Data Model",
+    "p15Id": "290",
+    "items": [
+      {
+        "name": "DFo 3-1: More with Relationships (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "292",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:292,38&cs=3WXrh7aLEVJ9C8NNUc5ix1e2xqiqpPp8a50vJmY2qkeeTH0Jh6xjvd9cXccu5cOLAotwIExJcFBVeYGSkwpUeQQ"
+      },
+      {
+        "name": "DFo 3-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "294",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:294,38&cs=3J1ZRcncwMY3ZiB4imlh8CwFYpW8fgLxlGoLbr8v12vybfiiijSZqnA7r8lpPKkHzn1KT2L1Vs6T4NYxAdJ1Ffw"
+      },
+      {
+        "name": "DFo 3-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "296",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:296,38&cs=3_zd24F_qMQo2pzVd6teSbbfD4rvSzeYqOCcX8aXTMjKq5f8WdnoF84M-rCWUBdL8mO3AxFfzGZec1_91XHG6kQ"
+      },
+      {
+        "name": "DFo 3-1: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "298",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:298,38&cs=3aMl4tmI9E5uXriXOmILbBDwAR3L9ju3FZvr0XibchXOlXE8MPrFw_ZX-HyaIXc2RC-xdI9O_impr2j7ozGGYyQ"
+      },
+      {
+        "name": "DFo 3-1: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "301",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:301,38&cs=3PHS_7oAXsbzKaKQ3IE3Rk5Cfcjjm8_gFr7JIlcsAgZBw7kG_lqfaijXCEFBJtw9fukoH_IqjKRqIG0TWZtT30g"
+      },
+      {
+        "name": "DFo 3-1: Project 3",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "303",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:303,38&cs=3Ag-vtlsmu3IyVUUbfFPVOcFeQDDmVo_pDZZlgINziRxOoin0ih70-HV4ayk9rvv73Z-8u070bbFIXURnpzglNg"
+      },
+      {
+        "name": "DFo 3-1: Project 4",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "306",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:306,38&cs=3LIjlLXEq_xWM9CwG_rCzz1LH3g-6XiiZUwWX9xF8P2X0xi984FWS8-5DF09VeumoQ1WAUFciXtvxn8I6u_vTwA"
+      },
+      {
+        "name": "DFo 3-2: Tracking Data Changes (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "311",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:311,38&cs=3qhIvXTUIpBJmyvVLhZQl5jloyaDYOWznhnYjre9tiE65I9N_vpoRHcK_raUboTivji_vHzIZpKTTmbeo4LrtoQ"
+      },
+      {
+        "name": "DFo 3-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "314",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:314,38&cs=3okcFcFPD6o7M9DlQnlHfEtxgAhd6cN5s2EpIePBAP44okRXEWCcC9R3WYt5s2zidiRMk6qKk6j10x_3_B_yI8Q"
+      },
+      {
+        "name": "DFo 3-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "317",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:317,38&cs=36552wE8iq6pjefB_sbRpDxPyLb0008p8Oyukf-TU3E8X7HNQAQuqzQDjW5fBCAu68UO1Z7etqmoJG_BApdtpuw"
+      },
+      {
+        "name": "DFo 3-2: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "319",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:319,38&cs=3EBqAUxEVTUfHUt2mLo6aXuC69s83IE2lO_Zsx-vZ2p_cjjkc3xVZBt1QsQ9domz9cpJSFCxggWngBcDGdo8hDA"
+      },
+      {
+        "name": "DFo 3-3: Normalization and Business Rules (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "322",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:322,38&cs=3wx4oxEc4BnJ2FkyMlAkDaN1tfmhNocYcGsCO_agbkAlpugP_bmrd7lvM9ZAvZiOkM2ur4oRK6DRj1I28VmbGlw"
+      },
+      {
+        "name": "DFo 3-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "325",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:325,38&cs=3UFcJbj2JQCDFDA91XA4nh96D4OcIrHnREwPAjhA9Ac4wVIwH8UfPLpzi4w8Rxq5szJA9y0AcR4lmiGcFXmYEKg"
+      },
+      {
+        "name": "DFo 3-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "327",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:327,38&cs=3xLPA9TFuBk9aneyK6UXTHCLT3kgB5URghL1xA2TOebjU-CyweuqLNjtKjEVSm9uQmVgncjsWy_2vfwV3aGOaKA"
+      },
+      {
+        "name": "DFo 3-3: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "329",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:329,38&cs=3VYZ1aEZsbg6OujhLF1DFafHfA8WDjVbocgFM7h1nzffGu6xbbgFIeb-mSai2sQ7FIw2vRX194wjwasgUGnr1dQ"
+      },
+      {
+        "name": "DFo 3-3: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "332",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:332,38&cs=38UpywL9xI8Z4l8DSIB6e9nPPe-VdBtPNp_1Pf2WLRVHoxDuUCBDjmwasU1q4PKOu9QgfNOJB24CUlMUVKH_WOQ"
+      },
+      {
+        "name": "DFo 3-3: Project 3",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "334",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:334,38&cs=3Ne5vWscBZcma7QJYI-VH6r6wqk7nS2Spne2qLYFM46U3Qwb17p8Xfw7SmKZ6LAuyWFWHAydEm5YQUBsfM13A3g"
+      },
+      {
+        "name": "DFo 3-3: Project 4",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "336",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:336,38&cs=3T41tIx0C_MZ9oFAETr9WHMjsGmdRl3xQcK57BV3LEfR5NuZfwAsjAQ85ZPoZX4H3bCCHATP9r6PdcWh8jaJVZw"
+      },
+      {
+        "name": "DFo 3-4: Data Modeling Terminology and Mapping (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "339",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:339,38&cs=3ioONv7l-bkaK21RXe_HCKTEBfXKwO3lLjja-xkc1h-tYcOgaD3x3NAMtVlbgf96Kfv00v3Am_7gnqRQ2WkZVng"
+      },
+      {
+        "name": "DFo 3-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "341",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:341,38&cs=3hEO3djQN5PzLYJAMsAjmZuW2OotYI_0QtjVVaISSRlhgSazLIF2PWTmXqAWyhsR2qat9o8UX2qZ7biBE0nF7EA"
+      },
+      {
+        "name": "DFo 3-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "344",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:344,38&cs=3QWda7UhGvwSFD5UwbzXiwAMyTRGBRmZlSnzKVrOIwQnk50hukJMbA-rW5C6DNtjBEK_dJxUvpLflo0lHCg0Uzw"
+      },
+      {
+        "name": "DFo 3-4: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "347",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:347,38&cs=32k9XTDUCLlKPXRON4Ghj_b8dNn1A0-J6RuVhQUiNayrsIctnMl88FRpBZCafdcuyKns9ugkBhmWhaFnRHmigUg"
+      },
+      {
+        "name": "Quiz: DFo - Section 3",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7744",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7744,38&cs=3Xm2B7MS6gswEr2YUmhF6QNIBFqGEc76etnL274Q8MJl07u3PqOxz8gcj9Z0p4of28LQ2S7yCu5_ANEC30gdk_g"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Foundations Midterm Exam (S1-S3)",
+    "p15Id": "7745",
+    "items": [
+      {
+        "name": "Midterm Exam (S1-S3): DFo Database Foundations",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7746",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7746,38&cs=3Fcm4GFi51JS2mxP9-LophCnaN4jIhtECNIvBBz5pC12iUsC8zAT9z31oDfryOQpu4nCR8XzQdvG8JOwsNLbNLw"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 4 - Oracle SQL Developer Data Modeler",
+    "p15Id": "356",
+    "items": [
+      {
+        "name": "DFo 4-1: Oracle SQL Developer Data Modeler (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "359",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:359,38&cs=3zXnKIAx8HWJLDIC2VoaYdcg74ipu2m_RjLCEQu_bRm_yAoWLuIDhQWoo-uh5lTwV2LiJ3Gev6D3YIZgdxpw_EA"
+      },
+      {
+        "name": "DFo 4-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "361",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:361,38&cs=3IglQYWMPMtpQNcifKVwTSnhNK9dK8C9l0v7y5IIn3aRmDXXVR4KpZP9wha9uOxt8UXF0X3toNoh4mghfHbzawg"
+      },
+      {
+        "name": "DFo 4-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "363",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:363,38&cs=3_sNfSbyNYcVv7hKohpRtYkZXx5_atHG8-McIwIJvYvaANTQYGRJcWcnOc3h3yUGcUTd1EWoFdjtOBnxRf-eWrg"
+      },
+      {
+        "name": "DFo 4-1: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "366",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:366,38&cs=3k8maC2mHQ6wLSQifDfRkWAsRU9XcDfAtfO7a6b8q3Q6Ui0F9N15uxf7DRboBc0N0K2rNTutMrZ1tR7kZKKZuag"
+      },
+      {
+        "name": "DFo 4-2: Convert a Logical Model to a Relational Model (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "368",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:368,38&cs=3j7uwW-TLMyVdE0gHwWzyS4yo7okm03HySL0SzmcULleGjHEY6VVhnFqG_lGngmuaz6Y_WqqVGNsFx61kBcIkzQ"
+      },
+      {
+        "name": "DFo 4-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "370",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:370,38&cs=35Z2VUwD4FfEmLtmr7eUUiSEaG8Wqp0vOl4_0tlb8zdalfSuGBvF8Q1y8PkkOPYwUtpiQWA-8yl0TQY-AeW79bw"
+      },
+      {
+        "name": "DFo 4-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "373",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:373,38&cs=35OkDnlNnbFDW2ZA3oSBWOAl77HYvyfH3MM7WVl72uk04Y5Lp3WEJaVAimCNvlMNf8I93POk9VWMxvRDmTX1LCQ"
+      },
+      {
+        "name": "DFo 4-2: Project",
+        "type": "item",
+        "status": "Active",
+        "p15Id": "376",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:376,38&cs=3S56zK94hfO6ndVZMe2LBOJ9zLTmYHpipcu8d69jRJ5zvD7NxrGroLlJzZTIqrojh4Q-oHwqckHSXNlGczD2bnA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 5 - Mapping to the Physical Model",
+    "p15Id": "381",
+    "items": [
+      {
+        "name": "DFo 5-1: Mapping Entities and Attributes (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "382",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:382,38&cs=3XQqrjjZja8bWh-1UbmnG_FneaGIYkREtnJUDJlg6bQS1L6fgQa0xM56gtFbDOZtwbnk5DUmIZ6CFLtJ-aHb8rg"
+      },
+      {
+        "name": "DFo 5-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "385",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:385,38&cs=3nRuwSVrhrwmVN0d8IqMfQN_ncC90wqyATLN5aR8GJ1cKKVkPoA7WQ3hikCCgnGyNRfBsRfmHKbOVxxWywtK2Yg"
+      },
+      {
+        "name": "DFo 5-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "389",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:389,38&cs=3sUeWdRCGybqTZobgTKmEhaUQ-69J5tQrEW_Tt_DrXVAQltuZuK6KdqmxGHV1w3gqmbT_3IgOVot_IBX5gaOzkQ"
+      },
+      {
+        "name": "DFo 5-2: Mapping Entities and Foreign Keys (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "391",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:391,38&cs=3-DjxOHr8IM4AiXYxkiUqVKulREQt-pB80XVLUyOeROfQYvEIYozLOovNzK2OGMQbva41v7xcul5FytfNBO4PxA"
+      },
+      {
+        "name": "DFo 5-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "393",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:393,38&cs=36PqEwGAK0xZfNvqTsvHIdZJoVjgJ7c2wwJB-a_AmokECRr4soipVgiVO4l_qRZrzVs-0-brG8sRtcYzZnC95sw"
+      },
+      {
+        "name": "DFo 5-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "397",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:397,38&cs=3lqHvJSPNQQYn23qx63rZ4EueegSbu8m7XSs__GMYi6jqYWm7sG0nmfBo3REMJw01ApSkyhb8h-NvMRE7esG9Kg"
+      },
+      {
+        "name": "Quiz: DFo - Sections 4 and 5",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7747",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7747,38&cs=3FiKTeHjxnZVFmpygILW9LZpYL8bZpvoWQf5HfTkA088VnpitIboL4P1lS466o1h6bfyG_-4zIa5OUhMgank3tA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Section 6 - Introduction to SQL",
+    "p15Id": "400",
+    "items": [
+      {
+        "name": "DFo 6-1: Introduction to Oracle Application Express (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "402",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:402,38&cs=3reUcfW0ETnBytxfbewitY2Mk5LeFZKNS6Xtcs1dBRAqSBULYEpPKRS-lk2PsOJPKlAkKPANbArUFrqwzu9Jzfw"
+      },
+      {
+        "name": "DFo 6-1: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "404",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:404,38&cs=3vEghUqMceUePE2mZ3-8Mg0eh8QTZjwn-jeGLiknTFtjsCxmD-gNfG7UR7eC-JX4yn4BKW64N5HXXWRErnkFSyQ"
+      },
+      {
+        "name": "DFo 6-1: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "406",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:406,38&cs=3Mw40HsiDmTtAzmDB0pXhw6Qs2l7de6dtc8NGRuMMW4l-eBpu_IVVoshqwIQ_Fk8KrkqSMuiClo18e4SVm3YDuw"
+      },
+      {
+        "name": "DFo 6-1: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "408",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:408,38&cs=3SJ1aiM5__v7wuyIULy-XEa3ROxSLodh9Ducce6JlIXTDMN9_HKkLm3m95JVzV3GlbAvFe6naL_4oAufU3b3RdQ"
+      },
+      {
+        "name": "DFo 6-1: obl Sports Script (ZIP)",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "411",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:411,38&cs=3I0_b2K1tIyI1UCJnuk396mN5969aO7C4UATJ7EBpooDDY0lQVAaYnI2dW_pWfNq-TKCksedusJhYTHYDnE4Cwg"
+      },
+      {
+        "name": "DFo 6-2: Structured Query Language (SQL) (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "413",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:413,38&cs=3cqy_IZCUpy4J5RbLRLb-OHBnY2SiYN-SdYt06Q4vUg_OBFwzpP6bc5mKRAneJcHo8hzv9Fy1F8HpNhi0qquYeg"
+      },
+      {
+        "name": "DFo 6-2: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "415",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:415,38&cs=3AvEBJQX8qwtCIy3PUdQjf6gfW3OSHE3g5kQe0Jm0Y6PTsXHvmQpoxoF_2r9q2EOT_FvVWXp0QLPDdorWgtA_Qw"
+      },
+      {
+        "name": "DFo 6-2: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "417",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:417,38&cs=3MRPSlK_ZJTLG1iOHyFAn-MT5l4865-VcA8zH_hW4B0wx6XOeyMVxDsnG3Jw3yErBtRaS2cuplf6pYYLJv_UDxw"
+      },
+      {
+        "name": "DFo 6-3: Data Definition Language (DDL) (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "419",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:419,38&cs=35yYZQa-KLZTNYAIE59Knqdxug8xL2Pd9uWvW1nbyaKT9koiIGcfGx75_pOfyvZWXAmPNf8gFGuq2t6ulOsxFQA"
+      },
+      {
+        "name": "DFo 6-3: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "420",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:420,38&cs=36QOU65ZIu3Bg67ippXe8pnKrz2PfXlwFKLxkNgzjB7bAfptuCX35zgR7NNiNpAua6p6ZQehhQqma_fpNIiiUzQ"
+      },
+      {
+        "name": "DFo 6-3: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "421",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:421,38&cs=3o26WHGGWVUI-g7moeLux4VYs99AgstHieI2CyyBxfgv7Hm5GydnbPTf7r_PJA2RXKJQyjp58Rrum-U0wAWjZIQ"
+      },
+      {
+        "name": "DFo 6-3: Project",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "422",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:422,38&cs=3Ujba2oPZHMMrVsEAAuLwIbBD3tTaWSLm6GSzf2k3cZ7O1TS5a7syFMytGHZONGtWV4T7JuxL8JuXvNtYw-2HDg"
+      },
+      {
+        "name": "DFo 6-4: Data Manipulation Language (DML) (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "424",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:424,38&cs=32faHWoCtZQddizimeo2LQsxXFqBKHQ7HJz8TbjYgZmnej13U56RMgrrlB6kUPOHnb-GWZsAn7rtY1NG2qnc03w"
+      },
+      {
+        "name": "DFo 6-4: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "425",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:425,38&cs=3L2dF5XlxGj5DffNL68MOAz7U0UiCzGEoVrdVGGEQbLumB3YkFpeuyZQhuGcLoz7iq1apkF0WwlwUqxT2WP19Ug"
+      },
+      {
+        "name": "DFo 6-4: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "426",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:426,38&cs=3SKkOru0_0DgozZZmtUmsyGpQPVIgTJ2Lzk-YsNcWkrSzF0WrkMrPObH_Xx0_2y0VNjpd6Os5X0u1liHowzsIiw"
+      },
+      {
+        "name": "DFo 6-4: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "427",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:427,38&cs=3mV4GLyZoi3BrVoW8L-bshFeEGE4ydKTagMlIpct_zzyruO9LvregwBfp-1k9jZEqcXODgBk4K7ox0cqXK2ctdw"
+      },
+      {
+        "name": "DFo 6-4: Sports Data Script (ZIP)",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "429",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:429,38&cs=3QK4kXF06UF__XrOwzBYGoB2NSHLRDfa70VVulSA1SyRFrQVXvStyyLz8rt5ei2Fwa4nA7EE_t_0LuLYbSAm47A"
+      },
+      {
+        "name": "DFo 6-4: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "428",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:428,38&cs=3ZmpYVaGSkTW9-OvaaDn1vDw79K4LVW-Iv2mratu5RvVtJnS6WK57WAZmT89IHsqRnmDHXcbj5pWOo0gY7fkQMg"
+      },
+      {
+        "name": "Quiz 1: DFo - Section 6 - L1-L4",
+        "type": "quiz",
+        "status": "Completed",
+        "p15Id": "7748",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7748,38&cs=3kA9CHiIXrkBc0ypybJFvMeopWX393X01V9-0TUgJ2NdLTSTMHy2ufLinoK_-LGI9W8E-Rv58zaR_i3kdKfzokQ"
+      },
+      {
+        "name": "DFo 6-5: Transaction Control Language (TCL) (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "430",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:430,38&cs=3oIai_VQuyaBZleanyE53AYNlL6q-vRt1zP-C2gPt3TKw0zrBUOcDTerwMbX62YeSRjzS1-6w3y1F8iYWQ-kVJw"
+      },
+      {
+        "name": "DFo 6-5: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "432",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:432,38&cs=3yfyteu4-MWPfvD9Mw6Fl4JdEj1kXc3mV237WBwK7xD57gOGT4Z0ZUdrE0iFSvFeCJ-vULnQ-fxSl995snbomBQ"
+      },
+      {
+        "name": "DFo 6-5: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "435",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:435,38&cs=3HTJ0YY6PBOuBvis8xa02t4Jv8DDFr-SNo5f-HrN9ZnU2kWYCsP8rBspR3niKOeyzF_ayXma_YOF2tpD5uLujwQ"
+      },
+      {
+        "name": "DFo 6-6: Retrieving Data Using SELECT (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "436",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:436,38&cs=3RBt0svJnl78RFC9ofDzU509kghMu61T6notpLYwA5HQ83OyGoz8mrSW0N4pyu9XXY8as9OcZWReFkrWFQ3x6Ow"
+      },
+      {
+        "name": "DFo 6-6: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "438",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:438,38&cs=3an9CTe9zsQ2vM3QrUuQEKdSwpU8rCYyw_YEB0cInwQRdiximODzqrEsQp5Niac6moy1-nhHwgs3X6hU9PLldQg"
+      },
+      {
+        "name": "DFo 6-6: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "440",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:440,38&cs=3A1EbXEklod5ptvHjfD6vj-wOW5eG0KdL73aTwG_1cAuxIO0IS9APV10dH4GEMqxj2pIrWwW4sOikIxz_BSdaPA"
+      },
+      {
+        "name": "DFo 6-6: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "442",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:442,38&cs=3lxLJapHg5Dko5pOuHM24zfjRbFaoXCzvl1F8cAgFDWEmDdOIM9YPL9Hu2YzMpBVWWxMMkofZxmY9C3gHFDp-yQ"
+      },
+      {
+        "name": "DFo 6-6: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "445",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:445,38&cs=3Q2rsMVQlCbKcQHuaeWv6Ux7TMzmPVzbKpt3fXx_9HJPLDc5slFrOZegJDuuBJHWvOo0ZNpyRZK8Ip-YdzUNlDg"
+      },
+      {
+        "name": "DFo 6-7: Restricting Data Using WHERE (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "447",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:447,38&cs=3oDaAr_wNdZJ1ADMeJuanEMrZ4SggaIXXFyB6yraAbllXeDb7s5Zm6SWDdPkSNSkPmByYQCc0FhqKwXU8nm7szQ"
+      },
+      {
+        "name": "DFo 6-7: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "449",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:449,38&cs=3sUeGRhbJLF5WEJpbytmZeUDdkGt3dCDSWe6qMJtwu2E1PTUZQy-LUsEQ6hfpCySbJjdzktPuWyNDHM89orJyIA"
+      },
+      {
+        "name": "DFo 6-7: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "452",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:452,38&cs=3Zvp7ZmGKB2P1BxQdcR7WJMuhRd_eo52kx1zHGKJ0VXDJTk-svLy6NOIwF6TpI6Cdg95xWDSnLcxOwEIMeW3vqw"
+      },
+      {
+        "name": "DFo 6-7: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "454",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:454,38&cs=3cI_7S-pZlLcIn2zyPM8o6MSHDAGKuYuNNC32Xn40ezUtrbzRIhOspsafWTVibh78aAe90HAL9LmcEj9rympcmw"
+      },
+      {
+        "name": "DFo 6-7: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "455",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:455,38&cs=3412JH6R686VyF8MMziX2KciK1owTLDPQlhbaQVYvngpH_JffbI_BSUPvOK5jKTpCOqCgwYG5kW1HAOnhTt48fg"
+      },
+      {
+        "name": "DFo 6-8: Sorting Data Using ORDER BY (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "458",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:458,38&cs=3uDUgbt4gC5t6MalcSQNAKH6X-zmlW3r2W1V-A4Z1UN9ZXMOQnrtuvuFXzC64iKCGyjwLiEfb_xQR5TICykw1IQ"
+      },
+      {
+        "name": "DFo 6-8: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "460",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:460,38&cs=3vm1NAoZ7lAu6QAJYUuQQPL3pf7pU-e8ef5ls3d-uI8FtfvfwO4ym69QkeM7nDHo1nbk5HpkMiqmklNAKWGcy8Q"
+      },
+      {
+        "name": "DFo 6-8: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "462",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:462,38&cs=32HWtQtv7IlfVzhIqEyhkbMX7CPVwVDaYAUzAiuuMLPSyyNw74JMBHw1uy2ZbniPh4G8JLNM3rDCXEhH7Gho6lA"
+      },
+      {
+        "name": "DFo 6-8: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "464",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:464,38&cs=3VEB09nN7ZNv1CSS3y3UADQl-XcKjjCJ02bv04c5oENRVS5H9zOZEAcBkRW1Tt0uWBwJ9xPgVSIsmyThxxNs1QQ"
+      },
+      {
+        "name": "DFo 6-8: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "466",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:466,38&cs=3tw0jo6IL6Hc9n9ceeffPdbUhv3pu8Pt_-tPKzmKu2usw8RxePO2Rl3HR1dGu9N-Lzo0zS4_62ks1Ibld7HGO3Q"
+      },
+      {
+        "name": "DFo 6-9: Joining Tables Using JOIN (Lesson Slides)",
+        "type": "slides",
+        "status": "Completed",
+        "p15Id": "468",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:468,38&cs=3jTLONuNSwLvxzCjBmFRasnbiUz__Unygjh3JzGJCaI8j-Xucuvsfpr6LC7XsFrXWATglsly86Khyli7BrAd5zg"
+      },
+      {
+        "name": "DFo 6-9: Student Guide",
+        "type": "guide",
+        "status": "Completed",
+        "p15Id": "470",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:470,38&cs=3sPFWRub2uWz8oGPWYfTd7IkS35ZQwTiOiNT9Yx13WHhgGFnmmTK7o1hqWcdylM_iPr9oExYxvQS3LGOVP03vEQ"
+      },
+      {
+        "name": "DFo 6-9: Practice",
+        "type": "practice",
+        "status": "Completed",
+        "p15Id": "472",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:472,38&cs=3ML7_qEi5F47bJuDW3DeTofWPGXOlzxV67yIJ7W4YMmZy2OGs6Lm7TQ5ig4-O_xSwfOdnZOowHNTxRmBePjzdPw"
+      },
+      {
+        "name": "DFo 6-9: Project 1",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "475",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:475,38&cs=3YPgCjyYZZY2LmWYmldikb1Pavm8hNqNj3r4d_OUvpP1Os27QDQnv3oLNNArM17YPJnc55xZgHKfxDMGKOSQMGA"
+      },
+      {
+        "name": "DFo 6-9: Project 2",
+        "type": "item",
+        "status": "Completed",
+        "p15Id": "477",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:477,38&cs=32yWBjr4q0lqsTAcPu5DoiHa2bQrM-4yuLArgwUal9FYWYPxyT5mfyKky2XkJ1HVhE93ijNPppjSmLpXNRtcExA"
+      },
+      {
+        "name": "Quiz 2: DFo - Section 6 - L5-L9",
+        "type": "quiz",
+        "status": "Active",
+        "p15Id": "7749",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7749,38&cs=3ETg6Dd_g4WZDMlQ1wHj6tw5wg0kolrBE0QBQDKmTY6DV47kXmLR9ZqMWJVCXDnYLV-kAGKMN3V6zsAMNWngRXA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Foundations Final Exam (S4-S6)",
+    "p15Id": "7750",
+    "items": [
+      {
+        "name": "Final Exam (S4-S6): DFo Database Foundations",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7751",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7751,38&cs=3wODE-lyAnHlVSIEktnGt7HqrLeRcal_kPzIAmEwJA0WkZkGXt6MMHlKOw4WqEtnyax8vtVP4Nuwf03kKByYGSA"
+      }
+    ]
+  },
+  {
+    "sectionName": "Database Foundations Cumulative Final Exam (S1-S6)",
+    "p15Id": "7752",
+    "items": [
+      {
+        "name": "Cumulative Final Exam (S1-S6): DFo Database Foundations",
+        "type": "exam",
+        "status": "Active",
+        "p15Id": "7753",
+        "url": "https://academy.oracle.com/pls/f?p=63000:15:421768701135397::::P15_ID,P15_COURSE_ID:7753,38&cs=3vSWP-aTk5C3QpRarl5TOGZ8SmUaiGK8w27ei3fmwPT3UywAEmoQLYaWlLZ_Q1sgeLI02NV7jpd0DxRoLLWorug"
+      }
+    ]
+  }
+]

@@ -35,10 +35,48 @@ assert.match(oa.MEMBER_HUB_URL, /p=62000/);
 
 assert.strictEqual(db.chromeTimeToUnix('13348540800000000'), 1704067200);
 assert.strictEqual(db.chromeTimeToUnix(0), -1);
+assert.strictEqual(db.firefoxTimeToUnix(1791284490916), 1791284490);
+assert.strictEqual(db.firefoxTimeToUnix(1791284490), 1791284490);
+assert.strictEqual(db.firefoxTimeToUnix(0), -1);
 assert.strictEqual(db.sameSiteFromChromium(0), 'None');
 assert.strictEqual(db.sameSiteFromChromium(1), 'Lax');
 assert.strictEqual(db.sameSiteFromChromium(2), 'Strict');
 assert.strictEqual(db.sameSiteFromChromium(-1), undefined);
+
+// Imported cookie expirations must use Playwright's accepted Unix-seconds
+// format, and expired or malformed entries must not be revived as session cookies.
+const cookieExpiryTest = (async () => {
+  let addedCookies;
+  const context = {
+    async addCookies(cookies) {
+      addedCookies = cookies;
+    }
+  };
+  const count = await db.importCookies(context, [
+    { name: 'expired', value: 'x', domain: '.oracle.com', expires: -2 },
+    { name: 'session', value: 'x', domain: '.oracle.com', expires: 0 },
+    { name: 'invalid', value: 'x', domain: '.oracle.com', expires: NaN },
+    { name: 'persistent', value: 'x', domain: '.oracle.com', expires: 1700000000.9 },
+    { name: 'session-default', value: 'x', domain: '.oracle.com' }
+  ]);
+  assert.strictEqual(count, 3);
+  assert.deepStrictEqual(
+    addedCookies.map((cookie) => cookie.expires),
+    [-1, 1700000000, -1]
+  );
+
+  let currentUrl = 'https://academy.oracle.com/pls/f?p=63000:1:1234567890';
+  const page = {
+    url: () => currentUrl,
+    getByRole: () => ({ count: async () => 0 }),
+    async waitForTimeout() {
+      currentUrl = 'https://signon.oracle.com/signin';
+    }
+  };
+  const result = await oa.waitForSignIn(page, { timeoutMs: 25 });
+  assert.strictEqual(result.ok, false);
+  assert.strictEqual(result.url, 'https://signon.oracle.com/signin');
+})();
 
 // Chromium cookie DB lives under <profile>/Network/Cookies on modern builds and
 // <profile>/Cookies on older ones; profileDirs must find both.
@@ -67,4 +105,9 @@ assert.strictEqual(db.sameSiteFromChromium(-1), undefined);
   }
 }
 
-console.log('smoke: ok');
+cookieExpiryTest
+  .then(() => console.log('smoke: ok'))
+  .catch((err) => {
+    console.error(err);
+    process.exitCode = 1;
+  });

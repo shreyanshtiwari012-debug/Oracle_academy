@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # oracle-academy
 
 A Node.js + Playwright CLI that signs in to **Oracle Academy** once via Oracle
@@ -60,6 +61,9 @@ npx oracle-academy login              # prompts for y once signed in
 npx oracle-academy login --poll       # watches the cookie store automatically
 npx oracle-academy login --browser brave
 ```
+
+Passing `--browser <name>` opens that browser and reads its cookie store. Without
+the option, `login` uses the operating system's default browser.
 
 On macOS, reading a browser's cookie store requires **Full Disk Access** for the
 app you run the command from (Terminal, iTerm, your editor). Without it, `login`
@@ -256,3 +260,7 @@ fails.
 ## License
 
 MIT
+=======
+# Oracle_academy
+Does it for you
+>>>>>>> 16855ae57fd339619ae1d96424a9b32b57de82f7

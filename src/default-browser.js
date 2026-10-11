@@ -234,13 +234,74 @@ function detectDefaultBrowser(override) {
   return b;
 }
 
-function openInDefaultBrowser(url) {
-  const child =
-    process.platform === 'darwin'
-      ? spawn('open', [url], { stdio: 'ignore', detached: true })
-      : process.platform === 'win32'
-        ? spawn('cmd', ['/c', 'start', '', url], { stdio: 'ignore', detached: true })
-        : spawn('xdg-open', [url], { stdio: 'ignore', detached: true });
+function windowsBrowserExecutable(browser) {
+  for (const progId of browser.progIds || []) {
+    try {
+      const out = execFileSync(
+        'reg',
+        ['query', `HKCR\\${progId}\\shell\\open\\command`, '/ve'],
+        { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }
+      );
+      const command = out.match(/(?:REG_SZ\s+)?(?:"([^"]+\.exe)"|([^\s]+\.exe))/i);
+      const executable = command && (command[1] || command[2]);
+      if (executable && fs.existsSync(executable)) return executable;
+    } catch {
+      // Try the next registered ProgId for this browser.
+    }
+  }
+  if (browser.id === 'firefox') {
+    const installDirs = [
+      process.env.ProgramW6432,
+      process.env.ProgramFiles,
+      process.env['ProgramFiles(x86)'],
+      path.join(LOCAL_APP_DATA, 'Programs')
+    ]
+      .filter(Boolean)
+      .map((dir) => path.join(dir, 'Mozilla Firefox', 'firefox.exe'));
+    const executable = installDirs.find((candidate) => fs.existsSync(candidate));
+    if (executable) return executable;
+  }
+  throw new Error(
+    `Could not find the ${browser.name} executable from its Windows registration. ` +
+      'Open it manually or use "oracle-academy login --playwright".'
+  );
+}
+
+function openInDefaultBrowser(url, browserOverride) {
+  let command;
+  let args;
+  if (browserOverride) {
+    const browser = browserByKey(browserOverride);
+    if (!browser) {
+      throw new Error(`Unknown browser "${browserOverride}".`);
+    }
+    if (IS_WIN) {
+      command = windowsBrowserExecutable(browser);
+      args = [url];
+    } else if (process.platform === 'darwin') {
+      command = 'open';
+      args = ['-a', browser.name, url];
+    } else {
+      command = browser.id || browser.name.toLowerCase();
+      args = [url];
+    }
+  } else {
+    command =
+      process.platform === 'darwin'
+        ? 'open'
+        : IS_WIN
+          ? 'cmd'
+          : 'xdg-open';
+    args =
+      IS_WIN
+        ? ['/c', 'start', '', url]
+        : [url];
+  }
+
+  const child = spawn(command, args, { stdio: 'ignore', detached: true });
+  child.on('error', (err) => {
+    process.stderr.write(`Could not open ${browserOverride || 'the default browser'}: ${err.message}\n`);
+  });
   child.unref();
 }
 
@@ -581,7 +642,7 @@ function readChromiumCookies(browser, opts = {}) {
     try {
       const rows = querySqliteJson(
         dest,
-        `select host_key,name,hex(encrypted_value) as enc,value,path,expires_utc,is_secure,is_httponly,samesite from cookies where ${whereDomains(domains)};`
+        `select host_key,name,hex(encrypted_value) as enc,value,path,cast(expires_utc as text) as expires_utc,is_secure,is_httponly,samesite from cookies where ${whereDomains(domains)};`
       );
       for (const r of rows) {
         const value = r.enc
@@ -615,6 +676,12 @@ function sameSiteFromFirefox(v) {
   return undefined;
 }
 
+function firefoxTimeToUnix(expiry) {
+  const n = Number(expiry);
+  if (!Number.isFinite(n) || n === 0) return -1;
+  return Math.floor(n >= 1e12 ? n / 1000 : n);
+}
+
 function readFirefoxCookies(browser, opts = {}) {
   const domains = opts.domains || DEFAULT_DOMAINS;
   const cookies = [];
@@ -633,7 +700,7 @@ function readFirefoxCookies(browser, opts = {}) {
           value: r.value || '',
           domain: r.host_key,
           path: r.path || '/',
-          expires: Number(r.expiry) || -1,
+          expires: firefoxTimeToUnix(r.expiry),
           secure: !!Number(r.isSecure),
           httpOnly: !!Number(r.isHttpOnly),
           sameSite: sameSiteFromFirefox(r.sameSite)
@@ -660,12 +727,20 @@ async function importCookies(context, cookies) {
   const payload = [];
   for (const c of cookies) {
     if (!c || !c.name || !c.domain || c.value == null || c.value === '') continue;
+    const expires = c.expires == null ? -1 : Number(c.expires);
+    if (
+      !Number.isFinite(expires) ||
+      (expires < 0 && expires !== -1) ||
+      (expires > 0 && Math.floor(expires) < 1)
+    ) {
+      continue;
+    }
     const entry = {
       name: c.name,
       value: c.value,
       domain: c.domain,
       path: c.path || '/',
-      expires: typeof c.expires === 'number' ? c.expires : -1,
+      expires: expires > 0 ? Math.floor(expires) : -1,
       httpOnly: !!c.httpOnly,
       secure: !!c.secure
     };
@@ -699,6 +774,7 @@ module.exports = {
   decryptChromiumValue,
   decryptChromiumValueWin,
   chromeTimeToUnix,
+  firefoxTimeToUnix,
   sameSiteFromChromium,
   profileDirs,
   chromiumCookieFile,

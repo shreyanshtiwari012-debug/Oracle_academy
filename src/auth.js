@@ -22,26 +22,44 @@ const db = require('./default-browser');
 
 const SIGNIN_HEADING = /sign in to oracle/i;
 const POLL_MS = 3000;
+const APEX_SESSION_URL = /\/pls\/f\?p=\d+:\d+:\d+/;
+const APEX_SESSION_STABLE_MS = 3000;
 
 /**
- * Wait until the browser is back on academy.oracle.com with no sign-in form.
+ * Wait until the browser reaches a stable Oracle Academy APEX session URL.
  * @returns {Promise<{ok: boolean, url: string}>}
  */
 async function waitForSignIn(page, { timeoutMs = 5 * 60 * 1000, onUrl = () => {} } = {}) {
   const deadline = Date.now() + timeoutMs;
   let last = '';
+  let candidate = '';
+  let candidateSince = 0;
   while (Date.now() < deadline) {
     const url = page.url();
     if (url !== last) {
       onUrl(url);
       last = url;
     }
-    if (isAcademyUrl(url) && !isSignonUrl(url)) {
+    if (isAcademyUrl(url) && !isSignonUrl(url) && APEX_SESSION_URL.test(url)) {
       const stillSignin = await page
         .getByRole('heading', { name: SIGNIN_HEADING })
         .count()
         .catch(() => 0);
-      if (stillSignin === 0) return { ok: true, url };
+      if (stillSignin === 0) {
+        if (candidate === url && Date.now() - candidateSince >= APEX_SESSION_STABLE_MS) {
+          return { ok: true, url };
+        }
+        if (candidate !== url) {
+          candidate = url;
+          candidateSince = Date.now();
+        }
+      } else {
+        candidate = '';
+        candidateSince = 0;
+      }
+    } else {
+      candidate = '';
+      candidateSince = 0;
     }
     await page.waitForTimeout(1500);
   }
@@ -124,7 +142,7 @@ async function loginWithDefaultBrowser(opts = {}) {
   const onStatus = opts.onStatus || (() => {});
 
   onUrl(hub);
-  db.openInDefaultBrowser(hub);
+  db.openInDefaultBrowser(hub, opts.browser);
 
   const deadline = Date.now() + (opts.timeoutMs || 5 * 60 * 1000);
   let lastSig = null;
